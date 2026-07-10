@@ -1,8 +1,9 @@
-from database.db import Base
-from database.db import engine
-
+from database.db import Base, engine
 import database.models
 
-Base.metadata.create_all(bind=engine)
+def create_database():
+    Base.metadata.create_all(bind=engine)
+    print("✅ Database initialized successfully.")
 
-print("Database Created Successfully!")
+if __name__ == "__main__":
+    create_database()
