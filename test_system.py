@@ -62,90 +62,7 @@ def test_etl():
         print(f"  ❌ ETL error: {e}")
         return False
 
-def generate_sample_data():
-    """Generate sample data for testing"""
-    print("\n📊 Generating Sample Data...")
-    
-    # Products
-    products = [
-        {'sku': 'ALM001', 'name': 'Almonds 250g', 'category': 'Dry Fruits'},
-        {'sku': 'CSH002', 'name': 'Cashews 200g', 'category': 'Dry Fruits'},
-        {'sku': 'WAL003', 'name': 'Walnuts 200g', 'category': 'Dry Fruits'},
-        {'sku': 'DAT004', 'name': 'Dates 500g', 'category': 'Dry Fruits'},
-        {'sku': 'PIS005', 'name': 'Pistachios 150g', 'category': 'Dry Fruits'},
-        {'sku': 'RAS006', 'name': 'Raisins 250g', 'category': 'Dry Fruits'},
-        {'sku': 'APR007', 'name': 'Apricots 200g', 'category': 'Dry Fruits'},
-        {'sku': 'MIX008', 'name': 'Mixed Dry Fruits 500g', 'category': 'Mix'},
-    ]
-    
-    # Cities
-    cities = ['Delhi', 'Mumbai', 'Bangalore', 'Hyderabad', 'Pune', 'Chennai', 'Kolkata']
-    
-    # Generate sales data for last 30 days
-    sales_data = []
-    today = datetime.now().date()
-    
-    for i in range(30):
-        date = today - timedelta(days=i)
-        # 50-150 transactions per day
-        for _ in range(random.randint(50, 150)):
-            product = random.choice(products)
-            sales_data.append({
-                'order_date': date.strftime('%Y-%m-%d'),
-                'sku': product['sku'],
-                'product_name': product['name'],
-                'city': random.choice(cities),
-                'darkstore': f"DS_{random.randint(1,10)}",
-                'warehouse': f"WH_{random.randint(1,5)}",
-                'units_sold': random.randint(1, 5),
-                'revenue': random.uniform(500, 5000)
-            })
-    
-    sales_df = pd.DataFrame(sales_data)
-    sales_df.to_csv('data/raw/sample_sales.csv', index=False)
-    print(f"  ✅ Generated {len(sales_df)} sales records")
-    
-    # Generate inventory data
-    inventory_data = []
-    for product in products:
-        inventory_data.append({
-            'date': today.strftime('%Y-%m-%d'),
-            'sku': product['sku'],
-            'product_name': product['name'],
-            'stock_quantity': random.randint(100, 1000),
-            'stock_age_days': random.randint(0, 60),
-            'daily_consumption': random.uniform(10, 100),
-            'warehouse_location': f"RACK_{random.randint(1,20)}"
-        })
-    
-    inventory_df = pd.DataFrame(inventory_data)
-    inventory_df.to_csv('data/raw/sample_inventory.csv', index=False)
-    print(f"  ✅ Generated {len(inventory_df)} inventory records")
-    
-    # Generate competitor data
-    competitor_data = []
-    competitors = ['Amazon', 'Flipkart', 'Fresh Daily', 'Big Basket', 'Nature\u2019s Basket']
-    
-    for product in products:
-        for _ in range(3):  # Multiple competitors per product
-            our_price = random.uniform(400, 2000)
-            competitor_data.append({
-                'date': today.strftime('%Y-%m-%d'),
-                'sku': product['sku'],
-                'product_name': product['name'],
-                'competitor_name': random.choice(competitors),
-                'competitor_price': our_price + random.uniform(-200, 200),
-                'our_price': our_price,
-                'availability': random.choice([True, True, True, False]),
-                'rating': random.uniform(3.5, 5.0),
-                'review_count': random.randint(50, 500)
-            })
-    
-    competitor_df = pd.DataFrame(competitor_data)
-    competitor_df.to_csv('data/raw/sample_competitors.csv', index=False)
-    print(f"  ✅ Generated {len(competitor_df)} competitor records")
-    
-    return sales_df, inventory_df, competitor_df
+
 
 def import_sample_data():
     """Import sample data into database"""
@@ -156,16 +73,8 @@ def import_sample_data():
         pipeline = ETLPipeline()
         
         # Import sales
-        sales_count = pipeline.run_sales_pipeline('data/raw/sample_sales.csv')
+        sales_count = pipeline.run_sales_pipeline('data/raw/sales_v1_clean.csv')
         print(f"  ✅ Imported {sales_count} sales records")
-        
-        # Import inventory
-        inventory_count = pipeline.run_inventory_pipeline('data/raw/sample_inventory.csv')
-        print(f"  ✅ Imported {inventory_count} inventory records")
-        
-        # Import competitors
-        competitor_count = pipeline.run_competitor_pipeline('data/raw/sample_competitors.csv')
-        print(f"  ✅ Imported {competitor_count} competitor records")
         
         pipeline.close()
         return True
@@ -235,11 +144,7 @@ def main():
             results.append((test_name, False))
     
     # Generate sample data
-    try:
-        generate_sample_data()
-    except Exception as e:
-        print(f"❌ Sample data generation failed: {e}")
-        return
+    
     
     # Import sample data
     if not import_sample_data():
