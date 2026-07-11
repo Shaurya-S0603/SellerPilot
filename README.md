@@ -1,8 +1,8 @@
-# 🥜 RealNut Intelligence
+# 📟 SellerPilot
 
 > **A Premium Business Intelligence Platform for Blinkit Seller Analytics**
 
-RealNut Intelligence is a modern analytics platform built specifically for Blinkit sellers. It transforms raw seller reports into actionable business insights through automated ETL pipelines, interactive dashboards, and intelligent analytics.
+SellerPilot is a modern analytics platform built specifically for Blinkit sellers. It transforms raw seller reports into actionable business insights through automated ETL pipelines, interactive dashboards, and intelligent analytics.
 
 Designed with a premium executive dashboard experience, the platform enables business owners to monitor sales performance, identify regional trends, analyze product performance, and make data-driven decisions without manually processing spreadsheets.
 
@@ -330,7 +330,7 @@ Planned support:
 
 # 🔒 Data Privacy
 
-RealNut Intelligence processes all uploaded reports locally.
+SellerPilot processes all uploaded reports locally.
 
 - No seller data is transmitted to third-party servers.
 - Uploaded reports are processed securely.
