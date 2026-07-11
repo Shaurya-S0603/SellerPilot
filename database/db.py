@@ -1,27 +1,26 @@
+"""
+database/db.py
+
+Database connection utilities for RealNut Intelligence.
+
+This module provides a fresh SQLAlchemy engine whenever one
+is requested. This avoids stale connections after the database
+is reset.
+"""
+
 from sqlalchemy import create_engine
-from sqlalchemy.orm import declarative_base
-from sqlalchemy.orm import sessionmaker
 
-from config.settings import DATABASE_URL
-
-engine = create_engine(
-    DATABASE_URL,
-    echo=False,
-    future=True
-)
-
-SessionLocal = sessionmaker(
-    autoflush=False,
-    autocommit=False,
-    bind=engine
-)
-
-Base = declarative_base()
+from config.settings import DATABASE_PATH
 
 
-def get_db():
-    db = SessionLocal()
-    try:
-        yield db
-    finally:
-        db.close()
+def get_engine():
+    """
+    Returns a new SQLAlchemy engine connected to the
+    RealNut SQLite database.
+    """
+
+    return create_engine(
+        f"sqlite:///{DATABASE_PATH}",
+        echo=False,
+        future=True
+    )

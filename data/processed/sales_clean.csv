@@ -1,0 +1,1662 @@
+order_id,order_status,order_date,sku,product_name,city,darkstore,warehouse,units_sold,revenue
+2194772739,DELIVERED,2026-06-10,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2193848795,DELIVERED,2026-06-10,10274050,Real Nut Roasted Masala Flavoured Cashew,Vadodara,Unknown,Unknown,1,395
+2195071049,DELIVERED,2026-06-10,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2192355754,DELIVERED,2026-06-10,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2195169415,DELIVERED,2026-06-10,10274050,Real Nut Roasted Masala Flavoured Cashew,Vadodara,Unknown,Unknown,1,395
+2195984923,DELIVERED,2026-06-10,10274050,Real Nut Roasted Masala Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2193182389,DELIVERED,2026-06-10,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2194076960,DELIVERED,2026-06-10,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2194098913,DELIVERED,2026-06-10,10274050,Real Nut Roasted Masala Flavoured Cashew,Kolkata,Unknown,Unknown,1,395
+2195569932,DELIVERED,2026-06-10,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2194936606,DELIVERED,2026-06-10,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2193432147,DELIVERED,2026-06-10,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2193025367,DELIVERED,2026-06-10,10274845,Real Nut Premium Cashew,Kolkata,Unknown,Unknown,1,345
+2194455595,DELIVERED,2026-06-10,10274845,Real Nut Premium Cashew,Kolkata,Unknown,Unknown,1,345
+2193550137,DELIVERED,2026-06-10,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2196080349,DELIVERED,2026-06-10,10275571,Real Nut California Almonds,Chennai,Unknown,Unknown,1,325
+2195579222,DELIVERED,2026-06-10,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2193595560,DELIVERED,2026-06-10,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2194756210,DELIVERED,2026-06-10,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2195569437,DELIVERED,2026-06-10,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2192802098,DELIVERED,2026-06-10,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2194211650,DELIVERED,2026-06-10,10257695,Real Nut Roasted & Salted Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2194380085,DELIVERED,2026-06-10,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2193212258,DELIVERED,2026-06-10,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2195001372,DELIVERED,2026-06-10,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2194735523,DELIVERED,2026-06-10,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2193297867,DELIVERED,2026-06-10,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2195058626,DELIVERED,2026-06-10,10257695,Real Nut Roasted & Salted Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2196046724,DELIVERED,2026-06-10,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2195211883,DELIVERED,2026-06-10,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2193907609,DELIVERED,2026-06-10,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2195001372,DELIVERED,2026-06-10,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2192973293,DELIVERED,2026-06-10,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2194866938,DELIVERED,2026-06-10,10258370,Real Nut Roasted & Salted Flavoured Almonds,Mumbai,Unknown,Unknown,1,355
+2193507270,DELIVERED,2026-06-10,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Faridabad,Unknown,Unknown,1,240
+2195972902,DELIVERED,2026-06-10,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2197730021,DELIVERED,2026-06-11,10274050,Real Nut Roasted Masala Flavoured Cashew,Faridabad,Unknown,Unknown,1,395
+2196587485,DELIVERED,2026-06-11,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2199063166,DELIVERED,2026-06-11,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2200002811,DELIVERED,2026-06-11,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2199938944,DELIVERED,2026-06-11,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2200296065,DELIVERED,2026-06-11,10274050,Real Nut Roasted Masala Flavoured Cashew,Vadodara,Unknown,Unknown,1,395
+2198422310,DELIVERED,2026-06-11,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,2,790
+2199313228,DELIVERED,2026-06-11,10274845,Real Nut Premium Cashew,Hyderabad,Unknown,Unknown,1,345
+2196863150,DELIVERED,2026-06-11,10274050,Real Nut Roasted Masala Flavoured Cashew,Kolkata,Unknown,Unknown,1,395
+2198249003,DELIVERED,2026-06-11,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2198486584,DELIVERED,2026-06-11,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2198023593,DELIVERED,2026-06-11,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2197552158,DELIVERED,2026-06-11,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2198589776,DELIVERED,2026-06-11,10274845,Real Nut Premium Cashew,Hyderabad,Unknown,Unknown,1,345
+2199586756,DELIVERED,2026-06-11,10274845,Real Nut Premium Cashew,Aligarh,Unknown,Unknown,1,345
+2199905607,DELIVERED,2026-06-11,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2198385572,DELIVERED,2026-06-11,10275571,Real Nut California Almonds,Hyderabad,Unknown,Unknown,1,325
+2199926869,DELIVERED,2026-06-11,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2196627640,DELIVERED,2026-06-11,10275571,Real Nut California Almonds,Chennai,Unknown,Unknown,1,325
+2199130094,DELIVERED,2026-06-11,10258370,Real Nut Roasted & Salted Flavoured Almonds,Panipat,Unknown,Unknown,1,355
+2197193242,DELIVERED,2026-06-11,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2199178717,DELIVERED,2026-06-11,10258370,Real Nut Roasted & Salted Flavoured Almonds,Pune,Unknown,Unknown,1,355
+2196925138,DELIVERED,2026-06-11,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Gurgaon,Unknown,Unknown,1,240
+2197967449,DELIVERED,2026-06-11,10258370,Real Nut Roasted & Salted Flavoured Almonds,Rudrapur,Unknown,Unknown,1,355
+2197118584,DELIVERED,2026-06-11,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2196882010,DELIVERED,2026-06-11,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2198180096,DELIVERED,2026-06-11,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2198573887,DELIVERED,2026-06-11,10257695,Real Nut Roasted & Salted Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2196735165,DELIVERED,2026-06-11,10257695,Real Nut Roasted & Salted Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2198159467,DELIVERED,2026-06-11,10257695,Real Nut Roasted & Salted Flavoured Cashew,Rajkot,Unknown,Unknown,1,395
+2198193688,DELIVERED,2026-06-11,10257695,Real Nut Roasted & Salted Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2198920070,DELIVERED,2026-06-11,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2198063081,DELIVERED,2026-06-11,10257695,Real Nut Roasted & Salted Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2197353374,DELIVERED,2026-06-11,10257695,Real Nut Roasted & Salted Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2196574171,DELIVERED,2026-06-11,10257695,Real Nut Roasted & Salted Flavoured Cashew,Kolkata,Unknown,Unknown,1,395
+2200213245,DELIVERED,2026-06-11,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2198212259,DELIVERED,2026-06-11,10257699,Real Nut Roasted & Salted Pistachios,Ahmedabad,Unknown,Unknown,1,450
+2200015700,DELIVERED,2026-06-11,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Gurgaon,Unknown,Unknown,1,240
+2199262642,DELIVERED,2026-06-11,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2199061857,DELIVERED,2026-06-11,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Gurgaon,Unknown,Unknown,1,240
+2198490337,DELIVERED,2026-06-11,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2199639755,DELIVERED,2026-06-11,10258370,Real Nut Roasted & Salted Flavoured Almonds,Gurgaon,Unknown,Unknown,1,355
+2198153690,DELIVERED,2026-06-11,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2198063081,DELIVERED,2026-06-11,10258370,Real Nut Roasted & Salted Flavoured Almonds,Hyderabad,Unknown,Unknown,1,355
+2202775504,DELIVERED,2026-06-12,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2202794090,DELIVERED,2026-06-12,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2201187709,DELIVERED,2026-06-12,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2202823017,DELIVERED,2026-06-12,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2203627328,DELIVERED,2026-06-12,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2204178089,DELIVERED,2026-06-12,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2202116977,DELIVERED,2026-06-12,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2204056105,DELIVERED,2026-06-12,10274050,Real Nut Roasted Masala Flavoured Cashew,Rajkot,Unknown,Unknown,1,395
+2204416388,DELIVERED,2026-06-12,10274050,Real Nut Roasted Masala Flavoured Cashew,Faridabad,Unknown,Unknown,1,395
+2203676761,DELIVERED,2026-06-12,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2203745471,DELIVERED,2026-06-12,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2203743533,DELIVERED,2026-06-12,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2203806009,DELIVERED,2026-06-12,10275571,Real Nut California Almonds,Vadodara,Unknown,Unknown,1,325
+2202815999,DELIVERED,2026-06-12,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2202616161,DELIVERED,2026-06-12,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2201302202,DELIVERED,2026-06-12,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2201187709,DELIVERED,2026-06-12,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2201491427,DELIVERED,2026-06-12,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2203743533,DELIVERED,2026-06-12,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2203003572,DELIVERED,2026-06-12,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2202935994,DELIVERED,2026-06-12,10275571,Real Nut California Almonds,Pune,Unknown,Unknown,1,325
+2201025538,DELIVERED,2026-06-12,10275571,Real Nut California Almonds,Gurgaon,Unknown,Unknown,1,325
+2202559948,DELIVERED,2026-06-12,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2202614539,DELIVERED,2026-06-12,10274050,Real Nut Roasted Masala Flavoured Cashew,Meerut,Unknown,Unknown,3,1185
+2201641258,DELIVERED,2026-06-12,10274845,Real Nut Premium Cashew,Kolkata,Unknown,Unknown,1,345
+2200727996,DELIVERED,2026-06-12,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2202712249,DELIVERED,2026-06-12,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2203772433,DELIVERED,2026-06-12,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2201193862,DELIVERED,2026-06-12,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2201410014,DELIVERED,2026-06-12,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2201110194,DELIVERED,2026-06-12,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2203842763,DELIVERED,2026-06-12,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2201046370,DELIVERED,2026-06-12,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2203127503,DELIVERED,2026-06-12,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2200622047,DELIVERED,2026-06-12,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2201798475,DELIVERED,2026-06-12,10257699,Real Nut Roasted & Salted Pistachios,Delhi,Unknown,Unknown,1,450
+2202712249,DELIVERED,2026-06-12,10257699,Real Nut Roasted & Salted Pistachios,Ghaziabad,Unknown,Unknown,1,450
+2202504277,DELIVERED,2026-06-12,10257699,Real Nut Roasted & Salted Pistachios,Gurgaon,Unknown,Unknown,1,450
+2202679335,DELIVERED,2026-06-12,10257699,Real Nut Roasted & Salted Pistachios,Ghaziabad,Unknown,Unknown,1,450
+2203930829,DELIVERED,2026-06-12,10257699,Real Nut Roasted & Salted Pistachios,Bengaluru,Unknown,Unknown,1,450
+2203049164,DELIVERED,2026-06-12,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2202797590,DELIVERED,2026-06-12,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2202504277,DELIVERED,2026-06-12,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2204225916,DELIVERED,2026-06-12,10257699,Real Nut Roasted & Salted Pistachios,Bengaluru,Unknown,Unknown,1,450
+2201939764,DELIVERED,2026-06-12,10274050,Real Nut Roasted Masala Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2203639892,DELIVERED,2026-06-12,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2203323460,DELIVERED,2026-06-12,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2202459121,DELIVERED,2026-06-12,10274050,Real Nut Roasted Masala Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2202218272,DELIVERED,2026-06-12,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2201170416,DELIVERED,2026-06-12,10258370,Real Nut Roasted & Salted Flavoured Almonds,Haldwani,Unknown,Unknown,1,355
+2203912612,DELIVERED,2026-06-12,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Gurgaon,Unknown,Unknown,1,240
+2203220862,DELIVERED,2026-06-12,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Ghaziabad,Unknown,Unknown,1,240
+2204120706,DELIVERED,2026-06-12,10274050,Real Nut Roasted Masala Flavoured Cashew,Surat,Unknown,Unknown,1,395
+2208487694,DELIVERED,2026-06-13,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2207931961,DELIVERED,2026-06-13,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2208141972,DELIVERED,2026-06-13,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2206787390,DELIVERED,2026-06-13,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2206409184,DELIVERED,2026-06-13,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,2,790
+2206179286,DELIVERED,2026-06-13,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,2,790
+2208731547,DELIVERED,2026-06-13,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2206242373,DELIVERED,2026-06-13,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2205167188,DELIVERED,2026-06-13,10274050,Real Nut Roasted Masala Flavoured Cashew,Haldwani,Unknown,Unknown,1,395
+2205656757,DELIVERED,2026-06-13,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2206720628,DELIVERED,2026-06-13,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2208547973,DELIVERED,2026-06-13,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2208072562,DELIVERED,2026-06-13,10274845,Real Nut Premium Cashew,Pune,Unknown,Unknown,1,345
+2205172824,DELIVERED,2026-06-13,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2208100881,DELIVERED,2026-06-13,10275571,Real Nut California Almonds,Chennai,Unknown,Unknown,1,325
+2204893935,DELIVERED,2026-06-13,10275571,Real Nut California Almonds,Kolkata,Unknown,Unknown,1,325
+2207606574,DELIVERED,2026-06-13,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2205678879,DELIVERED,2026-06-13,10275571,Real Nut California Almonds,Chennai,Unknown,Unknown,1,325
+2205862013,DELIVERED,2026-06-13,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2204773786,DELIVERED,2026-06-13,10258370,Real Nut Roasted & Salted Flavoured Almonds,Gurgaon,Unknown,Unknown,1,355
+2206672387,DELIVERED,2026-06-13,10274845,Real Nut Premium Cashew,Bengaluru,Unknown,Unknown,1,345
+2208693389,DELIVERED,2026-06-13,10258370,Real Nut Roasted & Salted Flavoured Almonds,Mumbai,Unknown,Unknown,1,355
+2205297415,DELIVERED,2026-06-13,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2204774526,DELIVERED,2026-06-13,10257695,Real Nut Roasted & Salted Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2206786424,DELIVERED,2026-06-13,10257695,Real Nut Roasted & Salted Flavoured Cashew,Kolkata,Unknown,Unknown,1,395
+2207411786,DELIVERED,2026-06-13,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2206489456,DELIVERED,2026-06-13,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2208271143,DELIVERED,2026-06-13,10257695,Real Nut Roasted & Salted Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2207203635,DELIVERED,2026-06-13,10257695,Real Nut Roasted & Salted Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2205089293,DELIVERED,2026-06-13,10257699,Real Nut Roasted & Salted Pistachios,Kolkata,Unknown,Unknown,1,450
+2205097810,DELIVERED,2026-06-13,10257699,Real Nut Roasted & Salted Pistachios,Delhi,Unknown,Unknown,1,450
+2206017898,DELIVERED,2026-06-13,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2207480611,DELIVERED,2026-06-13,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Ghaziabad,Unknown,Unknown,1,240
+2205603898,DELIVERED,2026-06-13,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,2,710
+2207032231,DELIVERED,2026-06-13,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2206566386,DELIVERED,2026-06-13,10258370,Real Nut Roasted & Salted Flavoured Almonds,Pune,Unknown,Unknown,1,355
+2206409184,DELIVERED,2026-06-13,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,1,355
+2208636192,DELIVERED,2026-06-13,10258370,Real Nut Roasted & Salted Flavoured Almonds,Pune,Unknown,Unknown,1,355
+2207699204,DELIVERED,2026-06-13,10258370,Real Nut Roasted & Salted Flavoured Almonds,Chennai,Unknown,Unknown,1,355
+2207848310,DELIVERED,2026-06-13,10258370,Real Nut Roasted & Salted Flavoured Almonds,Mumbai,Unknown,Unknown,1,355
+2207235344,DELIVERED,2026-06-13,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2204774526,DELIVERED,2026-06-13,10258370,Real Nut Roasted & Salted Flavoured Almonds,Lucknow,Unknown,Unknown,1,355
+2210915433,DELIVERED,2026-06-14,10274845,Real Nut Premium Cashew,Rohtak,Unknown,Unknown,1,345
+2209277904,DELIVERED,2026-06-14,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2208959267,DELIVERED,2026-06-14,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2210892172,DELIVERED,2026-06-14,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2210105573,DELIVERED,2026-06-14,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2210156368,DELIVERED,2026-06-14,10274845,Real Nut Premium Cashew,Hyderabad,Unknown,Unknown,1,345
+2210563553,DELIVERED,2026-06-14,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2209701130,DELIVERED,2026-06-14,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2212112441,DELIVERED,2026-06-14,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,2,650
+2209037902,DELIVERED,2026-06-14,10275571,Real Nut California Almonds,Gurgaon,Unknown,Unknown,1,325
+2213123928,DELIVERED,2026-06-14,10275571,Real Nut California Almonds,Bengaluru,Unknown,Unknown,1,325
+2210320867,DELIVERED,2026-06-14,10275571,Real Nut California Almonds,Chennai,Unknown,Unknown,1,325
+2212695530,DELIVERED,2026-06-14,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2209138148,DELIVERED,2026-06-14,10275571,Real Nut California Almonds,Hyderabad,Unknown,Unknown,1,325
+2209208945,DELIVERED,2026-06-14,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2212560894,DELIVERED,2026-06-14,10275571,Real Nut California Almonds,Chennai,Unknown,Unknown,1,325
+2212542492,DELIVERED,2026-06-14,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2212469607,DELIVERED,2026-06-14,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2213146135,DELIVERED,2026-06-14,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2211105542,DELIVERED,2026-06-14,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2212727003,DELIVERED,2026-06-14,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2212627004,DELIVERED,2026-06-14,10274050,Real Nut Roasted Masala Flavoured Cashew,Agra,Unknown,Unknown,1,395
+2209277901,DELIVERED,2026-06-14,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2213396214,DELIVERED,2026-06-14,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2209620251,DELIVERED,2026-06-14,10257695,Real Nut Roasted & Salted Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2209388453,DELIVERED,2026-06-14,10257695,Real Nut Roasted & Salted Flavoured Cashew,Chennai,Unknown,Unknown,1,395
+2212194656,DELIVERED,2026-06-14,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2210609743,DELIVERED,2026-06-14,10257699,Real Nut Roasted & Salted Pistachios,Faridabad,Unknown,Unknown,1,450
+2209388453,DELIVERED,2026-06-14,10257699,Real Nut Roasted & Salted Pistachios,Chennai,Unknown,Unknown,1,450
+2211073387,DELIVERED,2026-06-14,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2213345244,DELIVERED,2026-06-14,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2210871598,DELIVERED,2026-06-14,10257695,Real Nut Roasted & Salted Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2211556863,DELIVERED,2026-06-14,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2209620251,DELIVERED,2026-06-14,10258370,Real Nut Roasted & Salted Flavoured Almonds,Lucknow,Unknown,Unknown,1,355
+2210376462,DELIVERED,2026-06-14,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2210085092,DELIVERED,2026-06-14,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2209810484,DELIVERED,2026-06-14,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2212073714,DELIVERED,2026-06-14,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2211900856,DELIVERED,2026-06-14,10274050,Real Nut Roasted Masala Flavoured Cashew,Vadodara,Unknown,Unknown,1,395
+2211556863,DELIVERED,2026-06-14,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2213318986,DELIVERED,2026-06-14,10258370,Real Nut Roasted & Salted Flavoured Almonds,Pune,Unknown,Unknown,1,355
+2217322241,DELIVERED,2026-06-15,10274050,Real Nut Roasted Masala Flavoured Cashew,Chennai,Unknown,Unknown,1,395
+2216812126,DELIVERED,2026-06-15,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2215937937,DELIVERED,2026-06-15,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2213839559,DELIVERED,2026-06-15,10274050,Real Nut Roasted Masala Flavoured Cashew,Mysore,Unknown,Unknown,1,395
+2215828906,DELIVERED,2026-06-15,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2216671021,DELIVERED,2026-06-15,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2214498844,DELIVERED,2026-06-15,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2214188412,DELIVERED,2026-06-15,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2214521593,DELIVERED,2026-06-15,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2213862077,DELIVERED,2026-06-15,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,2,650
+2214605583,DELIVERED,2026-06-15,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2213954349,DELIVERED,2026-06-15,10275571,Real Nut California Almonds,Vadodara,Unknown,Unknown,1,325
+2215683681,DELIVERED,2026-06-15,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2214324064,DELIVERED,2026-06-15,10275571,Real Nut California Almonds,Hyderabad,Unknown,Unknown,1,325
+2217249216,DELIVERED,2026-06-15,10258370,Real Nut Roasted & Salted Flavoured Almonds,Hyderabad,Unknown,Unknown,1,355
+2215069582,DELIVERED,2026-06-15,10257699,Real Nut Roasted & Salted Pistachios,Delhi,Unknown,Unknown,1,450
+2215569851,DELIVERED,2026-06-15,10258370,Real Nut Roasted & Salted Flavoured Almonds,Rajkot,Unknown,Unknown,1,355
+2214566070,DELIVERED,2026-06-15,10257695,Real Nut Roasted & Salted Flavoured Cashew,Faridabad,Unknown,Unknown,1,395
+2215522065,DELIVERED,2026-06-15,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2216579992,DELIVERED,2026-06-15,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2214566070,DELIVERED,2026-06-15,10257699,Real Nut Roasted & Salted Pistachios,Faridabad,Unknown,Unknown,1,450
+2215370150,DELIVERED,2026-06-15,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2217469128,DELIVERED,2026-06-15,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Ghaziabad,Unknown,Unknown,1,240
+2216238834,DELIVERED,2026-06-15,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2215641871,DELIVERED,2026-06-15,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2215069584,DELIVERED,2026-06-15,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2214441594,DELIVERED,2026-06-15,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,2,710
+2215279795,DELIVERED,2026-06-15,10258370,Real Nut Roasted & Salted Flavoured Almonds,Mumbai,Unknown,Unknown,1,355
+2216136682,DELIVERED,2026-06-15,10258370,Real Nut Roasted & Salted Flavoured Almonds,Hyderabad,Unknown,Unknown,1,355
+2216413662,DELIVERED,2026-06-15,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2221095032,DELIVERED,2026-06-16,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2220866250,DELIVERED,2026-06-16,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,2,790
+2218783027,DELIVERED,2026-06-16,10274845,Real Nut Premium Cashew,Kolkata,Unknown,Unknown,1,345
+2219372011,DELIVERED,2026-06-16,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2217930576,DELIVERED,2026-06-16,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2218212806,DELIVERED,2026-06-16,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2221031157,DELIVERED,2026-06-16,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2218281880,DELIVERED,2026-06-16,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2219643833,DELIVERED,2026-06-16,10275571,Real Nut California Almonds,Haldwani,Unknown,Unknown,1,325
+2219427764,DELIVERED,2026-06-16,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2220939534,DELIVERED,2026-06-16,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2219494310,DELIVERED,2026-06-16,10275571,Real Nut California Almonds,Bengaluru,Unknown,Unknown,1,325
+2220301464,DELIVERED,2026-06-16,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2219819816,DELIVERED,2026-06-16,10275571,Real Nut California Almonds,Gurgaon,Unknown,Unknown,1,325
+2221114009,DELIVERED,2026-06-16,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2218267737,DELIVERED,2026-06-16,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2221069291,DELIVERED,2026-06-16,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2221466272,DELIVERED,2026-06-16,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2218210709,DELIVERED,2026-06-16,10257695,Real Nut Roasted & Salted Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2218575226,DELIVERED,2026-06-16,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2218683404,DELIVERED,2026-06-16,10257699,Real Nut Roasted & Salted Pistachios,Ahmedabad,Unknown,Unknown,1,450
+2218633393,DELIVERED,2026-06-16,10257699,Real Nut Roasted & Salted Pistachios,Gurgaon,Unknown,Unknown,1,450
+2219219387,DELIVERED,2026-06-16,10257699,Real Nut Roasted & Salted Pistachios,Gurgaon,Unknown,Unknown,1,450
+2218988889,DELIVERED,2026-06-16,10257699,Real Nut Roasted & Salted Pistachios,Bengaluru,Unknown,Unknown,1,450
+2218754096,DELIVERED,2026-06-16,10257695,Real Nut Roasted & Salted Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2219231079,DELIVERED,2026-06-16,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2221509888,DELIVERED,2026-06-16,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Faridabad,Unknown,Unknown,1,240
+2218376368,DELIVERED,2026-06-16,10258370,Real Nut Roasted & Salted Flavoured Almonds,Gandhidham,Unknown,Unknown,1,355
+2218586195,DELIVERED,2026-06-16,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2218214347,DELIVERED,2026-06-16,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2221348977,DELIVERED,2026-06-16,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2220965144,DELIVERED,2026-06-16,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2224038203,DELIVERED,2026-06-17,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2225045016,DELIVERED,2026-06-17,10274845,Real Nut Premium Cashew,Kolkata,Unknown,Unknown,1,345
+2222946158,DELIVERED,2026-06-17,10274845,Real Nut Premium Cashew,Mumbai,Unknown,Unknown,1,345
+2222424770,DELIVERED,2026-06-17,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2225118900,DELIVERED,2026-06-17,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2225312616,DELIVERED,2026-06-17,10274845,Real Nut Premium Cashew,Chennai,Unknown,Unknown,1,345
+2225439330,DELIVERED,2026-06-17,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2225346955,DELIVERED,2026-06-17,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2225489409,DELIVERED,2026-06-17,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2224519667,DELIVERED,2026-06-17,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2225002043,DELIVERED,2026-06-17,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2224744619,DELIVERED,2026-06-17,10275571,Real Nut California Almonds,Faridabad,Unknown,Unknown,1,325
+2225539386,DELIVERED,2026-06-17,10274845,Real Nut Premium Cashew,Mysore,Unknown,Unknown,1,345
+2223692369,DELIVERED,2026-06-17,10275571,Real Nut California Almonds,Chennai,Unknown,Unknown,1,325
+2225044016,DELIVERED,2026-06-17,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2224357469,DELIVERED,2026-06-17,10275571,Real Nut California Almonds,Hyderabad,Unknown,Unknown,1,325
+2224357153,DELIVERED,2026-06-17,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2222099831,DELIVERED,2026-06-17,10275571,Real Nut California Almonds,Kolkata,Unknown,Unknown,1,325
+2224635912,DELIVERED,2026-06-17,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2224355519,DELIVERED,2026-06-17,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2222946158,DELIVERED,2026-06-17,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2224611876,DELIVERED,2026-06-17,10275571,Real Nut California Almonds,Hyderabad,Unknown,Unknown,1,325
+2222122252,DELIVERED,2026-06-17,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2222434886,DELIVERED,2026-06-17,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2223772789,DELIVERED,2026-06-17,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2222388409,DELIVERED,2026-06-17,10275571,Real Nut California Almonds,Vadodara,Unknown,Unknown,1,325
+2224135177,DELIVERED,2026-06-17,10275571,Real Nut California Almonds,Goa,Unknown,Unknown,1,325
+2221626054,DELIVERED,2026-06-17,10275571,Real Nut California Almonds,Kolkata,Unknown,Unknown,1,325
+2224740616,DELIVERED,2026-06-17,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2224714211,DELIVERED,2026-06-17,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2224947465,DELIVERED,2026-06-17,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2224788886,DELIVERED,2026-06-17,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2225184891,DELIVERED,2026-06-17,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2224603467,DELIVERED,2026-06-17,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2223475867,DELIVERED,2026-06-17,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2224716348,DELIVERED,2026-06-17,10257695,Real Nut Roasted & Salted Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2224861432,DELIVERED,2026-06-17,10257695,Real Nut Roasted & Salted Flavoured Cashew,Kolkata,Unknown,Unknown,1,395
+2222653044,DELIVERED,2026-06-17,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2225648007,DELIVERED,2026-06-17,10257695,Real Nut Roasted & Salted Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2225478972,DELIVERED,2026-06-17,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2225476753,DELIVERED,2026-06-17,10257695,Real Nut Roasted & Salted Flavoured Cashew,Surat,Unknown,Unknown,1,395
+2224734137,DELIVERED,2026-06-17,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2223212155,DELIVERED,2026-06-17,10257699,Real Nut Roasted & Salted Pistachios,Pune,Unknown,Unknown,1,450
+2224421752,DELIVERED,2026-06-17,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Ghaziabad,Unknown,Unknown,1,240
+2225171398,DELIVERED,2026-06-17,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Ghaziabad,Unknown,Unknown,1,240
+2223475867,DELIVERED,2026-06-17,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2224798248,DELIVERED,2026-06-17,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2225374703,DELIVERED,2026-06-17,10274845,Real Nut Premium Cashew,Bengaluru,Unknown,Unknown,1,345
+2224572059,DELIVERED,2026-06-17,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2224394405,DELIVERED,2026-06-17,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,1,355
+2222530740,DELIVERED,2026-06-17,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2222521491,DELIVERED,2026-06-17,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2225064361,DELIVERED,2026-06-17,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2223448335,DELIVERED,2026-06-17,10274050,Real Nut Roasted Masala Flavoured Cashew,Kolkata,Unknown,Unknown,1,395
+2222552305,DELIVERED,2026-06-17,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2224257131,DELIVERED,2026-06-17,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,2,790
+2223818090,DELIVERED,2026-06-17,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2224088904,DELIVERED,2026-06-17,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2222007381,DELIVERED,2026-06-17,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2223628756,DELIVERED,2026-06-17,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2223692369,DELIVERED,2026-06-17,10274050,Real Nut Roasted Masala Flavoured Cashew,Chennai,Unknown,Unknown,1,395
+2225127476,DELIVERED,2026-06-17,10258370,Real Nut Roasted & Salted Flavoured Almonds,Lucknow,Unknown,Unknown,1,355
+2223332681,DELIVERED,2026-06-17,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2228984455,DELIVERED,2026-06-18,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2226720562,DELIVERED,2026-06-18,10274845,Real Nut Premium Cashew,Vadodara,Unknown,Unknown,1,345
+2229528635,DELIVERED,2026-06-18,10274845,Real Nut Premium Cashew,Vadodara,Unknown,Unknown,1,345
+2229397022,DELIVERED,2026-06-18,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2229507366,DELIVERED,2026-06-18,10274845,Real Nut Premium Cashew,Chennai,Unknown,Unknown,1,345
+2229158113,DELIVERED,2026-06-18,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2228280106,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2229379007,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2229112366,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2227992425,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Faridabad,Unknown,Unknown,1,395
+2228775082,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2229077569,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2229021420,DELIVERED,2026-06-18,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2227665523,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Faridabad,Unknown,Unknown,1,395
+2227349882,DELIVERED,2026-06-18,10274845,Real Nut Premium Cashew,Hyderabad,Unknown,Unknown,1,345
+2225971749,DELIVERED,2026-06-18,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2228302500,DELIVERED,2026-06-18,10274845,Real Nut Premium Cashew,Kolkata,Unknown,Unknown,1,345
+2226916298,DELIVERED,2026-06-18,10275571,Real Nut California Almonds,Vadodara,Unknown,Unknown,1,325
+2229116290,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2226119911,DELIVERED,2026-06-18,10275571,Real Nut California Almonds,Vadodara,Unknown,Unknown,1,325
+2229261381,DELIVERED,2026-06-18,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2227084794,DELIVERED,2026-06-18,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2226102135,DELIVERED,2026-06-18,10275571,Real Nut California Almonds,Pune,Unknown,Unknown,1,325
+2229532725,DELIVERED,2026-06-18,10274845,Real Nut Premium Cashew,Vadodara,Unknown,Unknown,1,345
+2228541983,DELIVERED,2026-06-18,10275571,Real Nut California Almonds,Agra,Unknown,Unknown,1,325
+2229682152,DELIVERED,2026-06-18,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2225985313,DELIVERED,2026-06-18,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2226033475,DELIVERED,2026-06-18,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2228102226,DELIVERED,2026-06-18,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2226058400,DELIVERED,2026-06-18,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2226509998,DELIVERED,2026-06-18,10275571,Real Nut California Almonds,Bengaluru,Unknown,Unknown,1,325
+2226695072,DELIVERED,2026-06-18,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2226704046,DELIVERED,2026-06-18,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,2,650
+2229524155,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2227716174,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Haldwani,Unknown,Unknown,1,395
+2229709661,DELIVERED,2026-06-18,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2229437786,DELIVERED,2026-06-18,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Ghaziabad,Unknown,Unknown,1,240
+2228588927,DELIVERED,2026-06-18,10257699,Real Nut Roasted & Salted Pistachios,Gurgaon,Unknown,Unknown,1,450
+2229475057,DELIVERED,2026-06-18,10257699,Real Nut Roasted & Salted Pistachios,Delhi,Unknown,Unknown,1,450
+2229237223,DELIVERED,2026-06-18,10257699,Real Nut Roasted & Salted Pistachios,Kolkata,Unknown,Unknown,1,450
+2227444401,DELIVERED,2026-06-18,10257695,Real Nut Roasted & Salted Flavoured Cashew,Gulbarga,Unknown,Unknown,1,395
+2226503896,DELIVERED,2026-06-18,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Ghaziabad,Unknown,Unknown,1,240
+2226660706,DELIVERED,2026-06-18,10257695,Real Nut Roasted & Salted Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2227331150,DELIVERED,2026-06-18,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2227478666,DELIVERED,2026-06-18,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2228943049,DELIVERED,2026-06-18,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2228826408,DELIVERED,2026-06-18,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2229694307,DELIVERED,2026-06-18,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2229593926,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Sonipat,Unknown,Unknown,1,395
+2228387601,DELIVERED,2026-06-18,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2226972539,DELIVERED,2026-06-18,10258370,Real Nut Roasted & Salted Flavoured Almonds,Gurgaon,Unknown,Unknown,1,355
+2226953513,DELIVERED,2026-06-18,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2226830578,DELIVERED,2026-06-18,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ranchi,Unknown,Unknown,1,355
+2226180754,DELIVERED,2026-06-18,10258370,Real Nut Roasted & Salted Flavoured Almonds,Gurgaon,Unknown,Unknown,1,355
+2229214211,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Chennai,Unknown,Unknown,1,395
+2226972545,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2228957747,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2227421799,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2228777910,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2228640721,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2229173936,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2228274526,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2229248767,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2228319847,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2228235894,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2226606335,DELIVERED,2026-06-18,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2229116290,DELIVERED,2026-06-18,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,1,355
+2228884049,DELIVERED,2026-06-18,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2232123529,DELIVERED,2026-06-19,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2233561044,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,2,790
+2232812861,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Chennai,Unknown,Unknown,1,395
+2233625156,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2233032414,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2233279170,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2233329701,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2231293933,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2232897272,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2232201273,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Vadodara,Unknown,Unknown,1,395
+2230774505,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2230332607,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2231193477,DELIVERED,2026-06-19,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2233648685,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2233770893,DELIVERED,2026-06-19,10274845,Real Nut Premium Cashew,Bengaluru,Unknown,Unknown,1,345
+2230959073,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2233741013,DELIVERED,2026-06-19,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2231779636,DELIVERED,2026-06-19,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2230605054,DELIVERED,2026-06-19,10275571,Real Nut California Almonds,Bengaluru,Unknown,Unknown,1,325
+2233117252,DELIVERED,2026-06-19,10275571,Real Nut California Almonds,Meerut,Unknown,Unknown,1,325
+2230352988,DELIVERED,2026-06-19,10275571,Real Nut California Almonds,Chennai,Unknown,Unknown,1,325
+2231113722,DELIVERED,2026-06-19,10275571,Real Nut California Almonds,Agra,Unknown,Unknown,1,325
+2233146167,DELIVERED,2026-06-19,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2230900872,DELIVERED,2026-06-19,10274845,Real Nut Premium Cashew,Kolkata,Unknown,Unknown,1,345
+2230739545,DELIVERED,2026-06-19,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2229948586,DELIVERED,2026-06-19,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2232382012,DELIVERED,2026-06-19,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2233264876,DELIVERED,2026-06-19,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2233176355,DELIVERED,2026-06-19,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2232934588,DELIVERED,2026-06-19,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2233668029,DELIVERED,2026-06-19,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2230855757,DELIVERED,2026-06-19,10275571,Real Nut California Almonds,Chennai,Unknown,Unknown,1,325
+2232397730,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2233400902,DELIVERED,2026-06-19,10257695,Real Nut Roasted & Salted Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2233010606,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2232735348,DELIVERED,2026-06-19,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,2,790
+2230625222,DELIVERED,2026-06-19,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2233636498,DELIVERED,2026-06-19,10257695,Real Nut Roasted & Salted Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2230806464,DELIVERED,2026-06-19,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2231378161,DELIVERED,2026-06-19,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2231070594,DELIVERED,2026-06-19,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2230429186,DELIVERED,2026-06-19,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2233728029,DELIVERED,2026-06-19,10257695,Real Nut Roasted & Salted Flavoured Cashew,Surat,Unknown,Unknown,1,395
+2233493023,DELIVERED,2026-06-19,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mathura,Unknown,Unknown,1,395
+2232641674,DELIVERED,2026-06-19,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2231354222,DELIVERED,2026-06-19,10257695,Real Nut Roasted & Salted Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2233059420,DELIVERED,2026-06-19,10257699,Real Nut Roasted & Salted Pistachios,Ahmedabad,Unknown,Unknown,1,450
+2231296566,DELIVERED,2026-06-19,10257699,Real Nut Roasted & Salted Pistachios,Bengaluru,Unknown,Unknown,1,450
+2233521067,DELIVERED,2026-06-19,10257699,Real Nut Roasted & Salted Pistachios,Chennai,Unknown,Unknown,1,450
+2232218239,DELIVERED,2026-06-19,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2230573494,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2233633782,DELIVERED,2026-06-19,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Faridabad,Unknown,Unknown,1,240
+2229920633,DELIVERED,2026-06-19,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2231373469,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2233800127,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2230371176,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2232317734,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Kolkata,Unknown,Unknown,1,395
+2233516796,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Meerut,Unknown,Unknown,1,395
+2232721919,DELIVERED,2026-06-19,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2232746998,DELIVERED,2026-06-19,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2231296562,DELIVERED,2026-06-19,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2230429186,DELIVERED,2026-06-19,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2232339073,DELIVERED,2026-06-19,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2229798429,DELIVERED,2026-06-19,10258370,Real Nut Roasted & Salted Flavoured Almonds,Surat,Unknown,Unknown,1,355
+2231636291,DELIVERED,2026-06-19,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2230461301,DELIVERED,2026-06-19,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2230882405,DELIVERED,2026-06-19,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,1,355
+2237588721,DELIVERED,2026-06-20,10274845,Real Nut Premium Cashew,Vadodara,Unknown,Unknown,1,345
+2238014902,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2237818162,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Faridabad,Unknown,Unknown,1,395
+2235532595,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,2,790
+2236752649,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2238000901,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2236170400,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2234626383,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2234354715,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2237656362,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2237582207,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Kolkata,Unknown,Unknown,1,395
+2237484290,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2234340403,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2237128022,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Vadodara,Unknown,Unknown,1,395
+2237943050,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2234330994,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,2,790
+2237594906,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2237484019,DELIVERED,2026-06-20,10274845,Real Nut Premium Cashew,Chandigarh,Unknown,Unknown,1,345
+2234913147,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2235991294,DELIVERED,2026-06-20,10274845,Real Nut Premium Cashew,Surat,Unknown,Unknown,1,345
+2234271844,DELIVERED,2026-06-20,10275571,Real Nut California Almonds,Chennai,Unknown,Unknown,1,325
+2237653733,DELIVERED,2026-06-20,10274845,Real Nut Premium Cashew,Pune,Unknown,Unknown,1,345
+2235574661,DELIVERED,2026-06-20,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2234997984,DELIVERED,2026-06-20,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2236154204,DELIVERED,2026-06-20,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2235297299,DELIVERED,2026-06-20,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2237586777,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Meerut,Unknown,Unknown,1,395
+2234892736,DELIVERED,2026-06-20,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2237399798,DELIVERED,2026-06-20,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2237562985,DELIVERED,2026-06-20,10275571,Real Nut California Almonds,Aligarh,Unknown,Unknown,1,325
+2234310531,DELIVERED,2026-06-20,10275571,Real Nut California Almonds,Bengaluru,Unknown,Unknown,1,325
+2235313265,DELIVERED,2026-06-20,10274845,Real Nut Premium Cashew,Kolkata,Unknown,Unknown,1,345
+2238226147,DELIVERED,2026-06-20,10274845,Real Nut Premium Cashew,Sonipat,Unknown,Unknown,1,345
+2237480956,DELIVERED,2026-06-20,10274845,Real Nut Premium Cashew,Pune,Unknown,Unknown,1,345
+2234892736,DELIVERED,2026-06-20,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2236063295,DELIVERED,2026-06-20,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2238125685,DELIVERED,2026-06-20,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2237755399,DELIVERED,2026-06-20,10274845,Real Nut Premium Cashew,Rohtak,Unknown,Unknown,1,345
+2237352397,DELIVERED,2026-06-20,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2237654461,DELIVERED,2026-06-20,10274845,Real Nut Premium Cashew,Rohtak,Unknown,Unknown,1,345
+2234635809,DELIVERED,2026-06-20,10274845,Real Nut Premium Cashew,Gorakhpur,Unknown,Unknown,1,345
+2236559400,DELIVERED,2026-06-20,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2235807071,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Faridabad,Unknown,Unknown,1,395
+2234396670,DELIVERED,2026-06-20,10274845,Real Nut Premium Cashew,Vadodara,Unknown,Unknown,1,345
+2236982155,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Agra,Unknown,Unknown,1,395
+2234306384,DELIVERED,2026-06-20,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Gurgaon,Unknown,Unknown,1,240
+2237557910,DELIVERED,2026-06-20,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Ghaziabad,Unknown,Unknown,1,240
+2238230270,DELIVERED,2026-06-20,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Gurgaon,Unknown,Unknown,1,240
+2237762914,DELIVERED,2026-06-20,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Ghaziabad,Unknown,Unknown,1,240
+2237957417,DELIVERED,2026-06-20,10257699,Real Nut Roasted & Salted Pistachios,Rajkot,Unknown,Unknown,1,450
+2236044747,DELIVERED,2026-06-20,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2236956729,DELIVERED,2026-06-20,10257695,Real Nut Roasted & Salted Flavoured Cashew,Kolkata,Unknown,Unknown,1,395
+2237957417,DELIVERED,2026-06-20,10257695,Real Nut Roasted & Salted Flavoured Cashew,Rajkot,Unknown,Unknown,1,395
+2237220751,DELIVERED,2026-06-20,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2237019108,DELIVERED,2026-06-20,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2237896518,DELIVERED,2026-06-20,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,2,790
+2234012104,DELIVERED,2026-06-20,10257695,Real Nut Roasted & Salted Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2235756535,DELIVERED,2026-06-20,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2235373597,DELIVERED,2026-06-20,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2234556332,DELIVERED,2026-06-20,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2235692488,DELIVERED,2026-06-20,10257695,Real Nut Roasted & Salted Flavoured Cashew,Goa,Unknown,Unknown,1,395
+2237149989,DELIVERED,2026-06-20,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2235205912,DELIVERED,2026-06-20,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2235729856,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2236200777,DELIVERED,2026-06-20,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Gurgaon,Unknown,Unknown,1,240
+2236036487,DELIVERED,2026-06-20,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2234565814,DELIVERED,2026-06-20,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2236026221,DELIVERED,2026-06-20,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2237840071,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2237865046,DELIVERED,2026-06-20,10258370,Real Nut Roasted & Salted Flavoured Almonds,Chennai,Unknown,Unknown,1,355
+2236523185,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2234724234,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2234428272,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2234221972,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2233908715,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2237296070,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2238138701,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Chandigarh,Unknown,Unknown,1,395
+2236727223,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2235987247,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2233979405,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2235423501,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2235895300,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2237062122,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2236880112,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2236043740,DELIVERED,2026-06-20,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,1,355
+2235549799,DELIVERED,2026-06-20,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2238284714,DELIVERED,2026-06-20,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2237019108,DELIVERED,2026-06-20,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,1,355
+2242896927,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2243084381,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2241627440,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2241562119,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2242579156,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2241903000,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2242030132,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2241609952,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2242254782,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2243493935,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2238822607,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2240912485,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2240844713,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2239096350,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2239907478,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Kolkata,Unknown,Unknown,1,395
+2238725219,DELIVERED,2026-06-21,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2242366422,DELIVERED,2026-06-21,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2243013689,DELIVERED,2026-06-21,10310116,Real Nut Dried Figs,Gurgaon,Unknown,Unknown,1,380
+2241373418,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2239274868,DELIVERED,2026-06-21,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2241232882,DELIVERED,2026-06-21,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2243156353,DELIVERED,2026-06-21,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2238598403,DELIVERED,2026-06-21,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2242495895,DELIVERED,2026-06-21,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2242369584,DELIVERED,2026-06-21,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2240971029,DELIVERED,2026-06-21,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2239144190,DELIVERED,2026-06-21,10275571,Real Nut California Almonds,Bengaluru,Unknown,Unknown,1,325
+2240543763,DELIVERED,2026-06-21,10275571,Real Nut California Almonds,Bengaluru,Unknown,Unknown,1,325
+2243409631,DELIVERED,2026-06-21,10274845,Real Nut Premium Cashew,Surat,Unknown,Unknown,1,345
+2239803253,DELIVERED,2026-06-21,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2241523894,DELIVERED,2026-06-21,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2241455620,DELIVERED,2026-06-21,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2243129647,DELIVERED,2026-06-21,10274845,Real Nut Premium Cashew,Vadodara,Unknown,Unknown,1,345
+2242086401,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2239518429,DELIVERED,2026-06-21,10258370,Real Nut Roasted & Salted Flavoured Almonds,Kolkata,Unknown,Unknown,1,355
+2242674564,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2240074773,DELIVERED,2026-06-21,10257699,Real Nut Roasted & Salted Pistachios,Ahmedabad,Unknown,Unknown,1,450
+2240811651,DELIVERED,2026-06-21,10257699,Real Nut Roasted & Salted Pistachios,Ghaziabad,Unknown,Unknown,1,450
+2242856959,DELIVERED,2026-06-21,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2240026982,DELIVERED,2026-06-21,10257695,Real Nut Roasted & Salted Flavoured Cashew,Goa,Unknown,Unknown,1,395
+2240415336,DELIVERED,2026-06-21,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2242103422,DELIVERED,2026-06-21,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2240971946,DELIVERED,2026-06-21,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Ghaziabad,Unknown,Unknown,1,240
+2240724921,DELIVERED,2026-06-21,10257695,Real Nut Roasted & Salted Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2241642763,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2240944909,DELIVERED,2026-06-21,10257695,Real Nut Roasted & Salted Flavoured Cashew,Faridabad,Unknown,Unknown,1,395
+2239025410,DELIVERED,2026-06-21,10257695,Real Nut Roasted & Salted Flavoured Cashew,Chennai,Unknown,Unknown,1,395
+2238504815,DELIVERED,2026-06-21,10257695,Real Nut Roasted & Salted Flavoured Cashew,Surat,Unknown,Unknown,1,395
+2242937169,DELIVERED,2026-06-21,10257695,Real Nut Roasted & Salted Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2239946409,DELIVERED,2026-06-21,10257695,Real Nut Roasted & Salted Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2240954885,DELIVERED,2026-06-21,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2243516029,DELIVERED,2026-06-21,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Gurgaon,Unknown,Unknown,1,240
+2241799974,DELIVERED,2026-06-21,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2240566855,DELIVERED,2026-06-21,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2241632071,DELIVERED,2026-06-21,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Ghaziabad,Unknown,Unknown,1,240
+2240024624,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2241816760,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2243015381,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2239913236,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2240398520,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2241131751,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2239748110,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Meerut,Unknown,Unknown,1,395
+2239438628,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2240098259,DELIVERED,2026-06-21,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2243520232,DELIVERED,2026-06-21,10258370,Real Nut Roasted & Salted Flavoured Almonds,Mumbai,Unknown,Unknown,1,355
+2242468780,DELIVERED,2026-06-21,10258370,Real Nut Roasted & Salted Flavoured Almonds,Mumbai,Unknown,Unknown,1,355
+2243435911,DELIVERED,2026-06-21,10258370,Real Nut Roasted & Salted Flavoured Almonds,Mumbai,Unknown,Unknown,1,355
+2242270864,DELIVERED,2026-06-21,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2241986240,DELIVERED,2026-06-21,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2245810221,DELIVERED,2026-06-22,10275571,Real Nut California Almonds,Bengaluru,Unknown,Unknown,1,325
+2245976232,DELIVERED,2026-06-22,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2247394345,DELIVERED,2026-06-22,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2246528043,DELIVERED,2026-06-22,10274845,Real Nut Premium Cashew,Bengaluru,Unknown,Unknown,1,345
+2243979714,DELIVERED,2026-06-22,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2244875366,DELIVERED,2026-06-22,10274845,Real Nut Premium Cashew,Chennai,Unknown,Unknown,1,345
+2246945709,DELIVERED,2026-06-22,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2246532913,DELIVERED,2026-06-22,10274845,Real Nut Premium Cashew,Pune,Unknown,Unknown,1,345
+2246191524,DELIVERED,2026-06-22,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2244282322,DELIVERED,2026-06-22,10275571,Real Nut California Almonds,Gurgaon,Unknown,Unknown,1,325
+2247245580,DELIVERED,2026-06-22,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2245749293,DELIVERED,2026-06-22,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2246329194,DELIVERED,2026-06-22,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2245458181,DELIVERED,2026-06-22,10275571,Real Nut California Almonds,Gorakhpur,Unknown,Unknown,1,325
+2243928294,DELIVERED,2026-06-22,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2245608520,DELIVERED,2026-06-22,10275571,Real Nut California Almonds,Chennai,Unknown,Unknown,1,325
+2246921130,DELIVERED,2026-06-22,10275571,Real Nut California Almonds,Haldwani,Unknown,Unknown,1,325
+2245532960,DELIVERED,2026-06-22,10275571,Real Nut California Almonds,Bengaluru,Unknown,Unknown,1,325
+2245328805,DELIVERED,2026-06-22,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2244491901,DELIVERED,2026-06-22,10275571,Real Nut California Almonds,Chennai,Unknown,Unknown,1,325
+2247304188,DELIVERED,2026-06-22,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2245249461,DELIVERED,2026-06-22,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2247347961,DELIVERED,2026-06-22,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,2,790
+2245211124,DELIVERED,2026-06-22,10274050,Real Nut Roasted Masala Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2245322715,DELIVERED,2026-06-22,10257695,Real Nut Roasted & Salted Flavoured Cashew,Lucknow,Unknown,Unknown,2,790
+2245750590,DELIVERED,2026-06-22,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,2,790
+2246508482,DELIVERED,2026-06-22,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2246722586,DELIVERED,2026-06-22,10257695,Real Nut Roasted & Salted Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2245899318,DELIVERED,2026-06-22,10257699,Real Nut Roasted & Salted Pistachios,Ahmedabad,Unknown,Unknown,1,450
+2244816449,DELIVERED,2026-06-22,10257699,Real Nut Roasted & Salted Pistachios,Ahmedabad,Unknown,Unknown,1,450
+2243932073,DELIVERED,2026-06-22,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2245325275,DELIVERED,2026-06-22,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2246854958,DELIVERED,2026-06-22,10257695,Real Nut Roasted & Salted Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2246715598,DELIVERED,2026-06-22,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,1,355
+2245750590,DELIVERED,2026-06-22,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,2,710
+2244050087,DELIVERED,2026-06-22,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2246801658,DELIVERED,2026-06-22,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2245762097,DELIVERED,2026-06-22,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2245546733,DELIVERED,2026-06-22,10258370,Real Nut Roasted & Salted Flavoured Almonds,Mumbai,Unknown,Unknown,1,355
+2245249461,DELIVERED,2026-06-22,10258370,Real Nut Roasted & Salted Flavoured Almonds,Pune,Unknown,Unknown,1,355
+2247347961,DELIVERED,2026-06-22,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,2,710
+2246595859,DELIVERED,2026-06-22,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2250473445,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2250905109,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Surat,Unknown,Unknown,1,395
+2250276257,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Kolkata,Unknown,Unknown,1,395
+2247854534,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Faridabad,Unknown,Unknown,1,395
+2251424702,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2251115443,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2250667296,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Haldwani,Unknown,Unknown,1,395
+2249771883,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2251331412,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Kolkata,Unknown,Unknown,1,395
+2249164922,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2250786200,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2249997352,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2251026480,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2249704283,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2250859616,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2250142941,DELIVERED,2026-06-23,10274845,Real Nut Premium Cashew,Mumbai,Unknown,Unknown,1,345
+2249993839,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2247667834,DELIVERED,2026-06-23,10274845,Real Nut Premium Cashew,Bengaluru,Unknown,Unknown,1,345
+2249876504,DELIVERED,2026-06-23,10275571,Real Nut California Almonds,Hyderabad,Unknown,Unknown,1,325
+2247872308,DELIVERED,2026-06-23,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2248719316,DELIVERED,2026-06-23,10310116,Real Nut Dried Figs,Gurgaon,Unknown,Unknown,1,380
+2248259780,DELIVERED,2026-06-23,10275571,Real Nut California Almonds,Aligarh,Unknown,Unknown,1,325
+2250922284,DELIVERED,2026-06-23,10275571,Real Nut California Almonds,Aligarh,Unknown,Unknown,1,325
+2249995357,DELIVERED,2026-06-23,10275571,Real Nut California Almonds,Agra,Unknown,Unknown,1,325
+2249596151,DELIVERED,2026-06-23,10275571,Real Nut California Almonds,Vadodara,Unknown,Unknown,1,325
+2248846171,DELIVERED,2026-06-23,10275571,Real Nut California Almonds,Bengaluru,Unknown,Unknown,1,325
+2248812948,DELIVERED,2026-06-23,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2250720157,DELIVERED,2026-06-23,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2248715928,DELIVERED,2026-06-23,10275571,Real Nut California Almonds,Gurgaon,Unknown,Unknown,1,325
+2248512608,DELIVERED,2026-06-23,10275571,Real Nut California Almonds,Goa,Unknown,Unknown,1,325
+2249210107,DELIVERED,2026-06-23,10275571,Real Nut California Almonds,Faridabad,Unknown,Unknown,1,325
+2251145718,DELIVERED,2026-06-23,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2251477218,DELIVERED,2026-06-23,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2250878364,DELIVERED,2026-06-23,10274845,Real Nut Premium Cashew,Surat,Unknown,Unknown,1,345
+2248112238,DELIVERED,2026-06-23,10274845,Real Nut Premium Cashew,Kolkata,Unknown,Unknown,1,345
+2250523938,DELIVERED,2026-06-23,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2250669411,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,2,790
+2249379222,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Agra,Unknown,Unknown,1,395
+2249400379,DELIVERED,2026-06-23,10275571,Real Nut California Almonds,Hyderabad,Unknown,Unknown,1,325
+2249691077,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2249615383,DELIVERED,2026-06-23,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2249654137,DELIVERED,2026-06-23,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2249298432,DELIVERED,2026-06-23,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2249162915,DELIVERED,2026-06-23,10257695,Real Nut Roasted & Salted Flavoured Cashew,Chennai,Unknown,Unknown,1,395
+2249701941,DELIVERED,2026-06-23,10257695,Real Nut Roasted & Salted Flavoured Cashew,Chennai,Unknown,Unknown,1,395
+2247633754,DELIVERED,2026-06-23,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2250231065,DELIVERED,2026-06-23,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2249740281,DELIVERED,2026-06-23,10257699,Real Nut Roasted & Salted Pistachios,Gurgaon,Unknown,Unknown,1,450
+2248735647,DELIVERED,2026-06-23,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2247524058,DELIVERED,2026-06-23,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2250841400,DELIVERED,2026-06-23,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2250164481,DELIVERED,2026-06-23,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2250211820,DELIVERED,2026-06-23,10257695,Real Nut Roasted & Salted Flavoured Cashew,Faridabad,Unknown,Unknown,1,395
+2249737208,DELIVERED,2026-06-23,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2251516991,DELIVERED,2026-06-23,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2249633871,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2251273812,DELIVERED,2026-06-23,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2250211816,DELIVERED,2026-06-23,10257699,Real Nut Roasted & Salted Pistachios,Faridabad,Unknown,Unknown,1,450
+2250794926,DELIVERED,2026-06-23,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2250845266,DELIVERED,2026-06-23,10258370,Real Nut Roasted & Salted Flavoured Almonds,Davanagere,Unknown,Unknown,1,355
+2250820299,DELIVERED,2026-06-23,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2251133076,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2247945377,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2250542595,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2249087498,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2248344006,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2250554827,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2250634956,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Rohtak,Unknown,Unknown,1,395
+2251067731,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Gorakhpur,Unknown,Unknown,1,395
+2250669411,DELIVERED,2026-06-23,10258370,Real Nut Roasted & Salted Flavoured Almonds,Lucknow,Unknown,Unknown,2,710
+2251361045,DELIVERED,2026-06-23,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2251220032,DELIVERED,2026-06-23,10258370,Real Nut Roasted & Salted Flavoured Almonds,Kolkata,Unknown,Unknown,1,355
+2250323092,DELIVERED,2026-06-23,10258370,Real Nut Roasted & Salted Flavoured Almonds,Pune,Unknown,Unknown,1,355
+2249411390,DELIVERED,2026-06-23,10258370,Real Nut Roasted & Salted Flavoured Almonds,Pune,Unknown,Unknown,1,355
+2251401780,DELIVERED,2026-06-23,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2249921786,DELIVERED,2026-06-23,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2248394786,DELIVERED,2026-06-23,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,2,710
+2252094442,DELIVERED,2026-06-24,10274845,Real Nut Premium Cashew,Vadodara,Unknown,Unknown,1,345
+2255203470,DELIVERED,2026-06-24,10274845,Real Nut Premium Cashew,Surat,Unknown,Unknown,1,345
+2251630967,DELIVERED,2026-06-24,10274845,Real Nut Premium Cashew,Hyderabad,Unknown,Unknown,1,345
+2254765637,DELIVERED,2026-06-24,10274845,Real Nut Premium Cashew,Mumbai,Unknown,Unknown,1,345
+2254490077,DELIVERED,2026-06-24,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2251939809,DELIVERED,2026-06-24,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2253015523,DELIVERED,2026-06-24,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2253403068,DELIVERED,2026-06-24,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2253569750,DELIVERED,2026-06-24,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2254657931,DELIVERED,2026-06-24,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2254302221,DELIVERED,2026-06-24,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2252266648,DELIVERED,2026-06-24,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2254189984,DELIVERED,2026-06-24,10275571,Real Nut California Almonds,Meerut,Unknown,Unknown,1,325
+2253670938,DELIVERED,2026-06-24,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2252808948,DELIVERED,2026-06-24,10275571,Real Nut California Almonds,Meerut,Unknown,Unknown,1,325
+2254416543,DELIVERED,2026-06-24,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2254109781,DELIVERED,2026-06-24,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2252774944,DELIVERED,2026-06-24,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2255165857,DELIVERED,2026-06-24,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2252578868,DELIVERED,2026-06-24,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,2,650
+2253726433,DELIVERED,2026-06-24,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2252617028,DELIVERED,2026-06-24,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2252269560,DELIVERED,2026-06-24,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2252732704,DELIVERED,2026-06-24,10310116,Real Nut Dried Figs,Gurgaon,Unknown,Unknown,1,380
+2254390208,DELIVERED,2026-06-24,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2253187338,DELIVERED,2026-06-24,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2254548806,DELIVERED,2026-06-24,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2255119591,DELIVERED,2026-06-24,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,2,710
+2255557234,DELIVERED,2026-06-24,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2252221228,DELIVERED,2026-06-24,10274050,Real Nut Roasted Masala Flavoured Cashew,Surat,Unknown,Unknown,1,395
+2254605920,DELIVERED,2026-06-24,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2252799669,DELIVERED,2026-06-24,10257695,Real Nut Roasted & Salted Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2252146986,DELIVERED,2026-06-24,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2252412214,DELIVERED,2026-06-24,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2254061165,DELIVERED,2026-06-24,10257695,Real Nut Roasted & Salted Flavoured Cashew,Kolkata,Unknown,Unknown,1,395
+2255523293,DELIVERED,2026-06-24,10257695,Real Nut Roasted & Salted Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2252656050,DELIVERED,2026-06-24,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2253970299,DELIVERED,2026-06-24,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2252085342,DELIVERED,2026-06-24,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2252867866,DELIVERED,2026-06-24,10257695,Real Nut Roasted & Salted Flavoured Cashew,Surat,Unknown,Unknown,1,395
+2254884094,DELIVERED,2026-06-24,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2252040680,DELIVERED,2026-06-24,10257695,Real Nut Roasted & Salted Flavoured Cashew,Chennai,Unknown,Unknown,1,395
+2252085342,DELIVERED,2026-06-24,10257699,Real Nut Roasted & Salted Pistachios,Ghaziabad,Unknown,Unknown,1,450
+2253866534,DELIVERED,2026-06-24,10257699,Real Nut Roasted & Salted Pistachios,Ahmedabad,Unknown,Unknown,1,450
+2255426945,DELIVERED,2026-06-24,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2254671818,DELIVERED,2026-06-24,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2252071477,DELIVERED,2026-06-24,10274050,Real Nut Roasted Masala Flavoured Cashew,Chennai,Unknown,Unknown,1,395
+2254345036,DELIVERED,2026-06-24,10258370,Real Nut Roasted & Salted Flavoured Almonds,Pune,Unknown,Unknown,1,355
+2254467579,DELIVERED,2026-06-24,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2252926690,DELIVERED,2026-06-24,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2255141610,DELIVERED,2026-06-24,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2255119591,DELIVERED,2026-06-24,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Ghaziabad,Unknown,Unknown,1,240
+2253938640,DELIVERED,2026-06-24,10257699,Real Nut Roasted & Salted Pistachios,Ghaziabad,Unknown,Unknown,1,450
+2255119591,DELIVERED,2026-06-24,10257699,Real Nut Roasted & Salted Pistachios,Ghaziabad,Unknown,Unknown,1,450
+2253643894,DELIVERED,2026-06-24,10258370,Real Nut Roasted & Salted Flavoured Almonds,Hyderabad,Unknown,Unknown,1,355
+2258826438,DELIVERED,2026-06-25,10274845,Real Nut Premium Cashew,Mumbai,Unknown,Unknown,1,345
+2258856966,DELIVERED,2026-06-25,10274050,Real Nut Roasted Masala Flavoured Cashew,Rajkot,Unknown,Unknown,1,395
+2259389151,DELIVERED,2026-06-25,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2257674830,DELIVERED,2026-06-25,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2256368483,DELIVERED,2026-06-25,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2257651321,DELIVERED,2026-06-25,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2258042150,DELIVERED,2026-06-25,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2258163452,DELIVERED,2026-06-25,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2256060889,DELIVERED,2026-06-25,10274845,Real Nut Premium Cashew,Vadodara,Unknown,Unknown,1,345
+2257704425,DELIVERED,2026-06-25,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2259143768,DELIVERED,2026-06-25,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2257855568,DELIVERED,2026-06-25,10275571,Real Nut California Almonds,Hyderabad,Unknown,Unknown,1,325
+2258420964,DELIVERED,2026-06-25,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2259727925,DELIVERED,2026-06-25,10274845,Real Nut Premium Cashew,Surat,Unknown,Unknown,1,345
+2258258290,DELIVERED,2026-06-25,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2256917637,DELIVERED,2026-06-25,10275571,Real Nut California Almonds,Aligarh,Unknown,Unknown,1,325
+2256060889,DELIVERED,2026-06-25,10275571,Real Nut California Almonds,Vadodara,Unknown,Unknown,1,325
+2257291602,DELIVERED,2026-06-25,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2257505547,DELIVERED,2026-06-25,10275571,Real Nut California Almonds,Gurgaon,Unknown,Unknown,1,325
+2258815342,DELIVERED,2026-06-25,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,3,975
+2258364250,DELIVERED,2026-06-25,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2256681823,DELIVERED,2026-06-25,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2259202889,DELIVERED,2026-06-25,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2256828549,DELIVERED,2026-06-25,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2256666269,DELIVERED,2026-06-25,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2259381325,DELIVERED,2026-06-25,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2258590995,DELIVERED,2026-06-25,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2259117306,DELIVERED,2026-06-25,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2257910748,DELIVERED,2026-06-25,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2256501625,DELIVERED,2026-06-25,10257695,Real Nut Roasted & Salted Flavoured Cashew,Sonipat,Unknown,Unknown,1,395
+2256873509,DELIVERED,2026-06-25,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2256160539,DELIVERED,2026-06-25,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mangalore,Unknown,Unknown,1,395
+2257453041,DELIVERED,2026-06-25,10257695,Real Nut Roasted & Salted Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2259410302,DELIVERED,2026-06-25,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2258703812,DELIVERED,2026-06-25,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2259585022,DELIVERED,2026-06-25,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2257172689,DELIVERED,2026-06-25,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2257171280,DELIVERED,2026-06-25,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2258613976,DELIVERED,2026-06-25,10257695,Real Nut Roasted & Salted Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2259704265,DELIVERED,2026-06-25,10257699,Real Nut Roasted & Salted Pistachios,Bengaluru,Unknown,Unknown,1,450
+2257067965,DELIVERED,2026-06-25,10274050,Real Nut Roasted Masala Flavoured Cashew,Surat,Unknown,Unknown,1,395
+2256321070,DELIVERED,2026-06-25,10258370,Real Nut Roasted & Salted Flavoured Almonds,Gurgaon,Unknown,Unknown,1,355
+2259585024,DELIVERED,2026-06-25,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2257543708,DELIVERED,2026-06-25,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2256536768,DELIVERED,2026-06-25,10258370,Real Nut Roasted & Salted Flavoured Almonds,Gurgaon,Unknown,Unknown,1,355
+2258176481,DELIVERED,2026-06-25,10258370,Real Nut Roasted & Salted Flavoured Almonds,Kolkata,Unknown,Unknown,1,355
+2257229306,DELIVERED,2026-06-25,10258370,Real Nut Roasted & Salted Flavoured Almonds,Mumbai,Unknown,Unknown,1,355
+2257061058,DELIVERED,2026-06-25,10258370,Real Nut Roasted & Salted Flavoured Almonds,Pune,Unknown,Unknown,1,355
+2257453041,DELIVERED,2026-06-25,10258370,Real Nut Roasted & Salted Flavoured Almonds,Gurgaon,Unknown,Unknown,1,355
+2257392817,DELIVERED,2026-06-25,10258370,Real Nut Roasted & Salted Flavoured Almonds,Gurgaon,Unknown,Unknown,1,355
+2262901854,DELIVERED,2026-06-26,10274845,Real Nut Premium Cashew,Chennai,Unknown,Unknown,1,345
+2263274889,DELIVERED,2026-06-26,10274845,Real Nut Premium Cashew,Bengaluru,Unknown,Unknown,1,345
+2261197038,DELIVERED,2026-06-26,10274845,Real Nut Premium Cashew,Mumbai,Unknown,Unknown,1,345
+2262166436,DELIVERED,2026-06-26,10274845,Real Nut Premium Cashew,Chennai,Unknown,Unknown,1,345
+2263504861,DELIVERED,2026-06-26,10274845,Real Nut Premium Cashew,Rajkot,Unknown,Unknown,1,345
+2263301000,DELIVERED,2026-06-26,10274845,Real Nut Premium Cashew,Chennai,Unknown,Unknown,1,345
+2262281539,DELIVERED,2026-06-26,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2262634992,DELIVERED,2026-06-26,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2262181406,DELIVERED,2026-06-26,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2262637192,DELIVERED,2026-06-26,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2262078061,DELIVERED,2026-06-26,10274845,Real Nut Premium Cashew,Hyderabad,Unknown,Unknown,1,345
+2263299306,DELIVERED,2026-06-26,10274845,Real Nut Premium Cashew,Hyderabad,Unknown,Unknown,1,345
+2263044233,DELIVERED,2026-06-26,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2261463520,DELIVERED,2026-06-26,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2262912216,DELIVERED,2026-06-26,10274845,Real Nut Premium Cashew,Surat,Unknown,Unknown,1,345
+2263040047,DELIVERED,2026-06-26,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2261197494,DELIVERED,2026-06-26,10274845,Real Nut Premium Cashew,Bengaluru,Unknown,Unknown,1,345
+2262410895,DELIVERED,2026-06-26,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2263204141,DELIVERED,2026-06-26,10274845,Real Nut Premium Cashew,Haldwani,Unknown,Unknown,1,345
+2263395476,DELIVERED,2026-06-26,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2259957688,DELIVERED,2026-06-26,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2262339035,DELIVERED,2026-06-26,10275571,Real Nut California Almonds,Faridabad,Unknown,Unknown,2,650
+2260447511,DELIVERED,2026-06-26,10275571,Real Nut California Almonds,Nashik,Unknown,Unknown,1,325
+2263883220,DELIVERED,2026-06-26,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2261032292,DELIVERED,2026-06-26,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2262289358,DELIVERED,2026-06-26,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2263356623,DELIVERED,2026-06-26,10274845,Real Nut Premium Cashew,Chennai,Unknown,Unknown,1,345
+2260791632,DELIVERED,2026-06-26,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2261806210,DELIVERED,2026-06-26,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2262497499,DELIVERED,2026-06-26,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2261915236,DELIVERED,2026-06-26,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2261180245,DELIVERED,2026-06-26,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2264020460,DELIVERED,2026-06-26,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2261979805,DELIVERED,2026-06-26,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,2,790
+2261933752,DELIVERED,2026-06-26,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2262699126,DELIVERED,2026-06-26,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2263293851,DELIVERED,2026-06-26,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2262841944,DELIVERED,2026-06-26,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2259819434,DELIVERED,2026-06-26,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2263207663,DELIVERED,2026-06-26,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2260083665,DELIVERED,2026-06-26,10257699,Real Nut Roasted & Salted Pistachios,Mumbai,Unknown,Unknown,1,450
+2262296462,DELIVERED,2026-06-26,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2261001406,DELIVERED,2026-06-26,10257699,Real Nut Roasted & Salted Pistachios,Delhi,Unknown,Unknown,1,450
+2262078061,DELIVERED,2026-06-26,10257699,Real Nut Roasted & Salted Pistachios,Hyderabad,Unknown,Unknown,1,450
+2262078211,DELIVERED,2026-06-26,10257699,Real Nut Roasted & Salted Pistachios,Lucknow,Unknown,Unknown,1,450
+2263782211,DELIVERED,2026-06-26,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,1,355
+2261001406,DELIVERED,2026-06-26,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2260432073,DELIVERED,2026-06-26,10257695,Real Nut Roasted & Salted Flavoured Cashew,Goa,Unknown,Unknown,1,395
+2263777971,DELIVERED,2026-06-26,10258370,Real Nut Roasted & Salted Flavoured Almonds,Faridabad,Unknown,Unknown,1,355
+2259831484,DELIVERED,2026-06-26,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2263855805,DELIVERED,2026-06-26,10274050,Real Nut Roasted Masala Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2263167756,DELIVERED,2026-06-26,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2261532287,DELIVERED,2026-06-26,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2263890797,DELIVERED,2026-06-26,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2260960226,DELIVERED,2026-06-26,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2263276414,DELIVERED,2026-06-26,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2261040679,DELIVERED,2026-06-26,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2263178378,DELIVERED,2026-06-26,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2260230421,DELIVERED,2026-06-26,10274050,Real Nut Roasted Masala Flavoured Cashew,Faridabad,Unknown,Unknown,1,395
+2262548760,DELIVERED,2026-06-26,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2263121647,DELIVERED,2026-06-26,10258370,Real Nut Roasted & Salted Flavoured Almonds,Pune,Unknown,Unknown,1,355
+2261329045,DELIVERED,2026-06-26,10274050,Real Nut Roasted Masala Flavoured Cashew,Nashik,Unknown,Unknown,1,395
+2263902339,DELIVERED,2026-06-26,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2266593790,DELIVERED,2026-06-27,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2266923558,DELIVERED,2026-06-27,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2264990317,DELIVERED,2026-06-27,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2266451566,DELIVERED,2026-06-27,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2267380719,DELIVERED,2026-06-27,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2267238352,DELIVERED,2026-06-27,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2266262936,DELIVERED,2026-06-27,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2267747887,DELIVERED,2026-06-27,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2266453847,DELIVERED,2026-06-27,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2267793496,DELIVERED,2026-06-27,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2265934381,DELIVERED,2026-06-27,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2267398881,DELIVERED,2026-06-27,10274845,Real Nut Premium Cashew,Chennai,Unknown,Unknown,1,345
+2265171641,DELIVERED,2026-06-27,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2266831162,DELIVERED,2026-06-27,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2267763502,DELIVERED,2026-06-27,10274845,Real Nut Premium Cashew,Kolkata,Unknown,Unknown,1,345
+2268461058,DELIVERED,2026-06-27,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2265652996,DELIVERED,2026-06-27,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2265393176,DELIVERED,2026-06-27,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2265428773,DELIVERED,2026-06-27,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2265399072,DELIVERED,2026-06-27,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2265530566,DELIVERED,2026-06-27,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,2,650
+2265941832,DELIVERED,2026-06-27,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,2,650
+2265914734,DELIVERED,2026-06-27,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2264733418,DELIVERED,2026-06-27,10275571,Real Nut California Almonds,Meerut,Unknown,Unknown,1,325
+2267964055,DELIVERED,2026-06-27,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2265491484,DELIVERED,2026-06-27,10274845,Real Nut Premium Cashew,Chennai,Unknown,Unknown,1,345
+2266560754,DELIVERED,2026-06-27,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2266325953,DELIVERED,2026-06-27,10258370,Real Nut Roasted & Salted Flavoured Almonds,Lucknow,Unknown,Unknown,2,710
+2267439651,DELIVERED,2026-06-27,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2267674904,DELIVERED,2026-06-27,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2264931290,DELIVERED,2026-06-27,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2267410821,DELIVERED,2026-06-27,10257695,Real Nut Roasted & Salted Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2266593792,DELIVERED,2026-06-27,10257695,Real Nut Roasted & Salted Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2268505745,DELIVERED,2026-06-27,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2267385306,DELIVERED,2026-06-27,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2264548159,DELIVERED,2026-06-27,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2266283878,DELIVERED,2026-06-27,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2264220375,DELIVERED,2026-06-27,10257695,Real Nut Roasted & Salted Flavoured Cashew,Aligarh,Unknown,Unknown,1,395
+2267631489,DELIVERED,2026-06-27,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2265400906,DELIVERED,2026-06-27,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2266605225,DELIVERED,2026-06-27,10257699,Real Nut Roasted & Salted Pistachios,Delhi,Unknown,Unknown,1,450
+2265178564,DELIVERED,2026-06-27,10257695,Real Nut Roasted & Salted Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2267240262,DELIVERED,2026-06-27,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2266201454,DELIVERED,2026-06-27,10257699,Real Nut Roasted & Salted Pistachios,Hyderabad,Unknown,Unknown,1,450
+2264311957,DELIVERED,2026-06-27,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2265334309,DELIVERED,2026-06-27,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2267643296,DELIVERED,2026-06-27,10258370,Real Nut Roasted & Salted Flavoured Almonds,Surat,Unknown,Unknown,1,355
+2267089984,DELIVERED,2026-06-27,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2267730964,DELIVERED,2026-06-27,10258370,Real Nut Roasted & Salted Flavoured Almonds,Mumbai,Unknown,Unknown,1,355
+2267845896,DELIVERED,2026-06-27,10258370,Real Nut Roasted & Salted Flavoured Almonds,Surat,Unknown,Unknown,1,355
+2266560754,DELIVERED,2026-06-27,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2265753313,DELIVERED,2026-06-27,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2266881453,DELIVERED,2026-06-27,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2264548158,DELIVERED,2026-06-27,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2271697923,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2268799343,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2272041908,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Surat,Unknown,Unknown,1,395
+2272212749,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,2,790
+2271670478,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2268978900,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Haldwani,Unknown,Unknown,1,395
+2272284112,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2271807963,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2271061373,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2272332757,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2271582625,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2269605492,DELIVERED,2026-06-28,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2272144799,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2273190005,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2271408718,DELIVERED,2026-06-28,10274845,Real Nut Premium Cashew,Bengaluru,Unknown,Unknown,1,345
+2272089977,DELIVERED,2026-06-28,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2271783108,DELIVERED,2026-06-28,10274845,Real Nut Premium Cashew,Surat,Unknown,Unknown,1,345
+2270857306,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2270659695,DELIVERED,2026-06-28,10310116,Real Nut Dried Figs,Delhi,Unknown,Unknown,1,380
+2269799403,DELIVERED,2026-06-28,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2272771578,DELIVERED,2026-06-28,10275571,Real Nut California Almonds,Pune,Unknown,Unknown,1,325
+2269819209,DELIVERED,2026-06-28,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2272452941,DELIVERED,2026-06-28,10275571,Real Nut California Almonds,Gurgaon,Unknown,Unknown,1,325
+2271666137,DELIVERED,2026-06-28,10274845,Real Nut Premium Cashew,Hyderabad,Unknown,Unknown,1,345
+2270667703,DELIVERED,2026-06-28,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2269150250,DELIVERED,2026-06-28,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2270520307,DELIVERED,2026-06-28,10275571,Real Nut California Almonds,Pune,Unknown,Unknown,1,325
+2269738038,DELIVERED,2026-06-28,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2271745561,DELIVERED,2026-06-28,10274845,Real Nut Premium Cashew,Chennai,Unknown,Unknown,1,345
+2271820848,DELIVERED,2026-06-28,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2271895686,DELIVERED,2026-06-28,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2270610300,DELIVERED,2026-06-28,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2269047657,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2270404058,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Meerut,Unknown,Unknown,1,395
+2270870424,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2269549354,DELIVERED,2026-06-28,10258370,Real Nut Roasted & Salted Flavoured Almonds,Pune,Unknown,Unknown,1,355
+2269055848,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2270050049,DELIVERED,2026-06-28,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2271946903,DELIVERED,2026-06-28,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Ghaziabad,Unknown,Unknown,1,240
+2269802110,DELIVERED,2026-06-28,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2271280647,DELIVERED,2026-06-28,10257699,Real Nut Roasted & Salted Pistachios,Mumbai,Unknown,Unknown,1,450
+2273352577,DELIVERED,2026-06-28,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2271226724,DELIVERED,2026-06-28,10257699,Real Nut Roasted & Salted Pistachios,Hyderabad,Unknown,Unknown,1,450
+2272463785,DELIVERED,2026-06-28,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2270678372,DELIVERED,2026-06-28,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2273099838,DELIVERED,2026-06-28,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2271828904,DELIVERED,2026-06-28,10257695,Real Nut Roasted & Salted Flavoured Cashew,Goa,Unknown,Unknown,1,395
+2271624765,DELIVERED,2026-06-28,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2269506635,DELIVERED,2026-06-28,10257695,Real Nut Roasted & Salted Flavoured Cashew,Bahadurgarh,Unknown,Unknown,1,395
+2269868084,DELIVERED,2026-06-28,10257699,Real Nut Roasted & Salted Pistachios,Ghaziabad,Unknown,Unknown,1,450
+2272657724,DELIVERED,2026-06-28,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,2,710
+2269485157,DELIVERED,2026-06-28,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2270658761,DELIVERED,2026-06-28,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,1,355
+2273190062,DELIVERED,2026-06-28,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2270321449,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Faridabad,Unknown,Unknown,1,395
+2269797372,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2270209611,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Surat,Unknown,Unknown,1,395
+2268973250,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2270266473,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2271614685,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2272323033,DELIVERED,2026-06-28,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2270668774,DELIVERED,2026-06-28,10258370,Real Nut Roasted & Salted Flavoured Almonds,Meerut,Unknown,Unknown,1,355
+2269475759,DELIVERED,2026-06-28,10258370,Real Nut Roasted & Salted Flavoured Almonds,Chennai,Unknown,Unknown,1,355
+2272466515,DELIVERED,2026-06-28,10258370,Real Nut Roasted & Salted Flavoured Almonds,Faridabad,Unknown,Unknown,1,355
+2269202636,DELIVERED,2026-06-28,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2273067476,DELIVERED,2026-06-28,10257695,Real Nut Roasted & Salted Flavoured Cashew,Tirupati,Unknown,Unknown,1,395
+2273287698,DELIVERED,2026-06-28,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2271820848,DELIVERED,2026-06-28,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2276028624,DELIVERED,2026-06-29,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2274833398,DELIVERED,2026-06-29,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2275893334,DELIVERED,2026-06-29,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2277340862,DELIVERED,2026-06-29,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2273823927,DELIVERED,2026-06-29,10274845,Real Nut Premium Cashew,Chennai,Unknown,Unknown,1,345
+2277381908,DELIVERED,2026-06-29,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2276104670,DELIVERED,2026-06-29,10274050,Real Nut Roasted Masala Flavoured Cashew,Kolkata,Unknown,Unknown,1,395
+2274865703,DELIVERED,2026-06-29,10274050,Real Nut Roasted Masala Flavoured Cashew,Faridabad,Unknown,Unknown,1,395
+2275312739,DELIVERED,2026-06-29,10274050,Real Nut Roasted Masala Flavoured Cashew,Surat,Unknown,Unknown,1,395
+2275915740,DELIVERED,2026-06-29,10274845,Real Nut Premium Cashew,Vadodara,Unknown,Unknown,1,345
+2275112334,DELIVERED,2026-06-29,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2277151139,DELIVERED,2026-06-29,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2274692436,DELIVERED,2026-06-29,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2274575161,DELIVERED,2026-06-29,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2275854500,DELIVERED,2026-06-29,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2274558334,DELIVERED,2026-06-29,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2275766387,DELIVERED,2026-06-29,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2275619859,DELIVERED,2026-06-29,10274845,Real Nut Premium Cashew,Hyderabad,Unknown,Unknown,1,345
+2276003783,DELIVERED,2026-06-29,10274845,Real Nut Premium Cashew,Kolkata,Unknown,Unknown,1,345
+2275730676,DELIVERED,2026-06-29,10275571,Real Nut California Almonds,Pune,Unknown,Unknown,1,325
+2273972508,DELIVERED,2026-06-29,10275571,Real Nut California Almonds,Pune,Unknown,Unknown,1,325
+2277110182,DELIVERED,2026-06-29,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2275374997,DELIVERED,2026-06-29,10275571,Real Nut California Almonds,Goa,Unknown,Unknown,1,325
+2273728535,DELIVERED,2026-06-29,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2273746868,DELIVERED,2026-06-29,10275571,Real Nut California Almonds,Chennai,Unknown,Unknown,1,325
+2276475155,DELIVERED,2026-06-29,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2275646200,DELIVERED,2026-06-29,10274845,Real Nut Premium Cashew,Pune,Unknown,Unknown,1,345
+2276321681,DELIVERED,2026-06-29,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2276424762,DELIVERED,2026-06-29,10258370,Real Nut Roasted & Salted Flavoured Almonds,Hyderabad,Unknown,Unknown,1,355
+2277161255,DELIVERED,2026-06-29,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2275216362,DELIVERED,2026-06-29,10257695,Real Nut Roasted & Salted Flavoured Cashew,Manipal,Unknown,Unknown,1,395
+2273875403,DELIVERED,2026-06-29,10257695,Real Nut Roasted & Salted Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2275957335,DELIVERED,2026-06-29,10274050,Real Nut Roasted Masala Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2273516186,DELIVERED,2026-06-29,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2275957337,DELIVERED,2026-06-29,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2274397991,DELIVERED,2026-06-29,10257695,Real Nut Roasted & Salted Flavoured Cashew,Kolkata,Unknown,Unknown,1,395
+2275475074,DELIVERED,2026-06-29,10257695,Real Nut Roasted & Salted Flavoured Cashew,Kharagpur (West Bengal),Unknown,Unknown,1,395
+2277068158,DELIVERED,2026-06-29,10257695,Real Nut Roasted & Salted Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2275926056,DELIVERED,2026-06-29,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2274168994,DELIVERED,2026-06-29,10257695,Real Nut Roasted & Salted Flavoured Cashew,Faridabad,Unknown,Unknown,1,395
+2276185817,DELIVERED,2026-06-29,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2274464723,DELIVERED,2026-06-29,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2276341171,DELIVERED,2026-06-29,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2275674497,DELIVERED,2026-06-29,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2275032935,DELIVERED,2026-06-29,10257699,Real Nut Roasted & Salted Pistachios,Hyderabad,Unknown,Unknown,1,450
+2276484724,DELIVERED,2026-06-29,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2275900558,DELIVERED,2026-06-29,10274050,Real Nut Roasted Masala Flavoured Cashew,Meerut,Unknown,Unknown,1,395
+2277111102,DELIVERED,2026-06-29,10274050,Real Nut Roasted Masala Flavoured Cashew,Rajkot,Unknown,Unknown,1,395
+2276558584,DELIVERED,2026-06-29,10258370,Real Nut Roasted & Salted Flavoured Almonds,Lucknow,Unknown,Unknown,1,355
+2276329873,DELIVERED,2026-06-29,10258370,Real Nut Roasted & Salted Flavoured Almonds,Hyderabad,Unknown,Unknown,1,355
+2274358203,DELIVERED,2026-06-29,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2275854500,DELIVERED,2026-06-29,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2273839447,DELIVERED,2026-06-29,10258370,Real Nut Roasted & Salted Flavoured Almonds,Kolkata,Unknown,Unknown,1,355
+2276862239,DELIVERED,2026-06-29,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2274169935,DELIVERED,2026-06-29,10258370,Real Nut Roasted & Salted Flavoured Almonds,Faridabad,Unknown,Unknown,1,355
+2274168994,DELIVERED,2026-06-29,10257699,Real Nut Roasted & Salted Pistachios,Faridabad,Unknown,Unknown,1,450
+2275640653,DELIVERED,2026-06-29,10258370,Real Nut Roasted & Salted Flavoured Almonds,Gurgaon,Unknown,Unknown,1,355
+2278828075,DELIVERED,2026-06-30,10274845,Real Nut Premium Cashew,Aligarh,Unknown,Unknown,1,345
+2279252788,DELIVERED,2026-06-30,10274845,Real Nut Premium Cashew,Chennai,Unknown,Unknown,1,345
+2280935242,DELIVERED,2026-06-30,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2278418973,DELIVERED,2026-06-30,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2281669945,DELIVERED,2026-06-30,10274845,Real Nut Premium Cashew,Chennai,Unknown,Unknown,1,345
+2278403657,DELIVERED,2026-06-30,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2281141947,DELIVERED,2026-06-30,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2281611463,DELIVERED,2026-06-30,10274845,Real Nut Premium Cashew,Faridabad,Unknown,Unknown,1,345
+2280402482,DELIVERED,2026-06-30,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2279272572,DELIVERED,2026-06-30,10274845,Real Nut Premium Cashew,Rohtak,Unknown,Unknown,1,345
+2281209076,DELIVERED,2026-06-30,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2277685498,DELIVERED,2026-06-30,10275571,Real Nut California Almonds,Chennai,Unknown,Unknown,1,325
+2281623646,DELIVERED,2026-06-30,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2280023828,DELIVERED,2026-06-30,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2278092635,DELIVERED,2026-06-30,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2278794741,DELIVERED,2026-06-30,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2278669492,DELIVERED,2026-06-30,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2278666917,DELIVERED,2026-06-30,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2278672389,DELIVERED,2026-06-30,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2279154050,DELIVERED,2026-06-30,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2278418105,DELIVERED,2026-06-30,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2278543432,DELIVERED,2026-06-30,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2279028643,DELIVERED,2026-06-30,10275571,Real Nut California Almonds,Bengaluru,Unknown,Unknown,1,325
+2281233723,DELIVERED,2026-06-30,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2279023521,DELIVERED,2026-06-30,10258370,Real Nut Roasted & Salted Flavoured Almonds,Pune,Unknown,Unknown,1,355
+2279681718,DELIVERED,2026-06-30,10274050,Real Nut Roasted Masala Flavoured Cashew,Chandigarh,Unknown,Unknown,1,395
+2280308552,DELIVERED,2026-06-30,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2278595867,DELIVERED,2026-06-30,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2279613402,DELIVERED,2026-06-30,10257695,Real Nut Roasted & Salted Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2280577024,DELIVERED,2026-06-30,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2278014035,DELIVERED,2026-06-30,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2280869977,DELIVERED,2026-06-30,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2279976568,DELIVERED,2026-06-30,10257699,Real Nut Roasted & Salted Pistachios,Hyderabad,Unknown,Unknown,1,450
+2277510729,DELIVERED,2026-06-30,10257699,Real Nut Roasted & Salted Pistachios,Delhi,Unknown,Unknown,1,450
+2279283575,DELIVERED,2026-06-30,10257699,Real Nut Roasted & Salted Pistachios,Ahmedabad,Unknown,Unknown,1,450
+2278265864,DELIVERED,2026-06-30,10257699,Real Nut Roasted & Salted Pistachios,Lucknow,Unknown,Unknown,1,450
+2278108411,DELIVERED,2026-06-30,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,1,355
+2278711298,DELIVERED,2026-06-30,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2281612583,DELIVERED,2026-06-30,10258370,Real Nut Roasted & Salted Flavoured Almonds,Goa,Unknown,Unknown,1,355
+2280583309,DELIVERED,2026-06-30,10274050,Real Nut Roasted Masala Flavoured Cashew,Surat,Unknown,Unknown,1,395
+2278742210,DELIVERED,2026-06-30,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2279732034,DELIVERED,2026-06-30,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2278740937,DELIVERED,2026-06-30,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2279768216,DELIVERED,2026-06-30,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2281259328,DELIVERED,2026-06-30,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2280755021,DELIVERED,2026-06-30,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2279857945,DELIVERED,2026-06-30,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2277662855,DELIVERED,2026-06-30,10258370,Real Nut Roasted & Salted Flavoured Almonds,Faridabad,Unknown,Unknown,1,355
+2281392783,DELIVERED,2026-06-30,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2285461092,DELIVERED,2026-07-01,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2284139197,DELIVERED,2026-07-01,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2283311750,DELIVERED,2026-07-01,10274845,Real Nut Premium Cashew,Kolkata,Unknown,Unknown,1,345
+2285166850,DELIVERED,2026-07-01,10274845,Real Nut Premium Cashew,Bengaluru,Unknown,Unknown,1,345
+2282790367,DELIVERED,2026-07-01,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2282563578,DELIVERED,2026-07-01,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2281719152,DELIVERED,2026-07-01,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2283390054,DELIVERED,2026-07-01,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2285958802,DELIVERED,2026-07-01,10274845,Real Nut Premium Cashew,Pune,Unknown,Unknown,1,345
+2284133232,DELIVERED,2026-07-01,10274050,Real Nut Roasted Masala Flavoured Cashew,Vadodara,Unknown,Unknown,1,395
+2284954709,DELIVERED,2026-07-01,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2283564727,DELIVERED,2026-07-01,10275571,Real Nut California Almonds,Gurgaon,Unknown,Unknown,1,325
+2282954771,DELIVERED,2026-07-01,10274845,Real Nut Premium Cashew,Bengaluru,Unknown,Unknown,1,345
+2286016638,DELIVERED,2026-07-01,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2285999277,DELIVERED,2026-07-01,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2285321354,DELIVERED,2026-07-01,10274845,Real Nut Premium Cashew,Vadodara,Unknown,Unknown,1,345
+2283124645,DELIVERED,2026-07-01,10275571,Real Nut California Almonds,Hyderabad,Unknown,Unknown,1,325
+2283213035,DELIVERED,2026-07-01,10275571,Real Nut California Almonds,Chennai,Unknown,Unknown,1,325
+2281806662,DELIVERED,2026-07-01,10275571,Real Nut California Almonds,Vadodara,Unknown,Unknown,1,325
+2282680183,DELIVERED,2026-07-01,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,2,650
+2283502305,DELIVERED,2026-07-01,10275571,Real Nut California Almonds,Bengaluru,Unknown,Unknown,1,325
+2282664136,DELIVERED,2026-07-01,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2285704982,DELIVERED,2026-07-01,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2283910588,DELIVERED,2026-07-01,10310116,Real Nut Dried Figs,Gurgaon,Unknown,Unknown,1,380
+2285879273,DELIVERED,2026-07-01,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2282703023,DELIVERED,2026-07-01,10274050,Real Nut Roasted Masala Flavoured Cashew,Faridabad,Unknown,Unknown,1,395
+2285455472,DELIVERED,2026-07-01,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2283707320,DELIVERED,2026-07-01,10274050,Real Nut Roasted Masala Flavoured Cashew,Faridabad,Unknown,Unknown,1,395
+2283226185,DELIVERED,2026-07-01,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2284402183,DELIVERED,2026-07-01,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2285814658,DELIVERED,2026-07-01,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2284455944,DELIVERED,2026-07-01,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2285377582,DELIVERED,2026-07-01,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2284744460,DELIVERED,2026-07-01,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2283632171,DELIVERED,2026-07-01,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2283753178,DELIVERED,2026-07-01,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2282863556,DELIVERED,2026-07-01,10257699,Real Nut Roasted & Salted Pistachios,Faridabad,Unknown,Unknown,1,450
+2284133234,DELIVERED,2026-07-01,10257699,Real Nut Roasted & Salted Pistachios,Vadodara,Unknown,Unknown,1,450
+2284314559,DELIVERED,2026-07-01,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Gurgaon,Unknown,Unknown,1,240
+2282870053,DELIVERED,2026-07-01,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2282916946,DELIVERED,2026-07-01,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Gurgaon,Unknown,Unknown,1,240
+2283938319,DELIVERED,2026-07-01,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2284776459,DELIVERED,2026-07-01,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,1,355
+2282971728,DELIVERED,2026-07-01,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2283092449,DELIVERED,2026-07-01,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,1,355
+2282470409,DELIVERED,2026-07-01,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2285814661,DELIVERED,2026-07-01,10258370,Real Nut Roasted & Salted Flavoured Almonds,Mumbai,Unknown,Unknown,1,355
+2284555362,DELIVERED,2026-07-01,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2281811769,DELIVERED,2026-07-01,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2283378075,DELIVERED,2026-07-01,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2284221170,DELIVERED,2026-07-01,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2285484966,DELIVERED,2026-07-01,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Faridabad,Unknown,Unknown,1,240
+2289324638,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2287997415,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Meerut,Unknown,Unknown,1,395
+2286808681,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2288115933,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2289354135,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2287845083,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2287360767,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2288165668,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2288877073,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2288815574,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2288538007,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2288025011,DELIVERED,2026-07-02,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2287790753,DELIVERED,2026-07-02,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2287032136,DELIVERED,2026-07-02,10274845,Real Nut Premium Cashew,Bengaluru,Unknown,Unknown,1,345
+2289009133,DELIVERED,2026-07-02,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2287821329,DELIVERED,2026-07-02,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2288127428,DELIVERED,2026-07-02,10274845,Real Nut Premium Cashew,Hyderabad,Unknown,Unknown,1,345
+2287237665,DELIVERED,2026-07-02,10275571,Real Nut California Almonds,Hyderabad,Unknown,Unknown,1,325
+2286918050,DELIVERED,2026-07-02,10275571,Real Nut California Almonds,Goa,Unknown,Unknown,1,325
+2288088537,DELIVERED,2026-07-02,10275571,Real Nut California Almonds,Pune,Unknown,Unknown,1,325
+2287827876,DELIVERED,2026-07-02,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2287763994,DELIVERED,2026-07-02,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2288977853,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2287774123,DELIVERED,2026-07-02,10274845,Real Nut Premium Cashew,Bengaluru,Unknown,Unknown,1,345
+2287127062,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Meerut,Unknown,Unknown,1,395
+2286493284,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2290141195,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2288631361,DELIVERED,2026-07-02,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2288971488,DELIVERED,2026-07-02,10257695,Real Nut Roasted & Salted Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2289162581,DELIVERED,2026-07-02,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2289438103,DELIVERED,2026-07-02,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2287865809,DELIVERED,2026-07-02,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2287242909,DELIVERED,2026-07-02,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2288883914,DELIVERED,2026-07-02,10257699,Real Nut Roasted & Salted Pistachios,Lucknow,Unknown,Unknown,1,450
+2288672137,DELIVERED,2026-07-02,10257699,Real Nut Roasted & Salted Pistachios,Lucknow,Unknown,Unknown,1,450
+2287145846,DELIVERED,2026-07-02,10258370,Real Nut Roasted & Salted Flavoured Almonds,Lucknow,Unknown,Unknown,1,355
+2288971492,DELIVERED,2026-07-02,10258370,Real Nut Roasted & Salted Flavoured Almonds,Gurgaon,Unknown,Unknown,1,355
+2286461813,DELIVERED,2026-07-02,10258370,Real Nut Roasted & Salted Flavoured Almonds,Lucknow,Unknown,Unknown,1,355
+2288043134,DELIVERED,2026-07-02,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2289518133,DELIVERED,2026-07-02,10257695,Real Nut Roasted & Salted Flavoured Cashew,Goa,Unknown,Unknown,1,395
+2288418574,DELIVERED,2026-07-02,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2286320248,DELIVERED,2026-07-02,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2287033439,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2289076058,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2287801786,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2289916001,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2289355210,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2287865809,DELIVERED,2026-07-02,10258370,Real Nut Roasted & Salted Flavoured Almonds,Mumbai,Unknown,Unknown,1,355
+2287659375,DELIVERED,2026-07-02,10258370,Real Nut Roasted & Salted Flavoured Almonds,Gurgaon,Unknown,Unknown,1,355
+2288968479,DELIVERED,2026-07-02,10258370,Real Nut Roasted & Salted Flavoured Almonds,Gurgaon,Unknown,Unknown,1,355
+2286943635,DELIVERED,2026-07-02,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2290221211,DELIVERED,2026-07-02,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2294141833,DELIVERED,2026-07-03,10274845,Real Nut Premium Cashew,Hyderabad,Unknown,Unknown,1,345
+2292845875,DELIVERED,2026-07-03,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2291019424,DELIVERED,2026-07-03,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2290503054,DELIVERED,2026-07-03,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2292943671,DELIVERED,2026-07-03,10274845,Real Nut Premium Cashew,Mumbai,Unknown,Unknown,1,345
+2294081795,DELIVERED,2026-07-03,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2291281813,DELIVERED,2026-07-03,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2291682567,DELIVERED,2026-07-03,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2294613692,DELIVERED,2026-07-03,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2290440216,DELIVERED,2026-07-03,10274050,Real Nut Roasted Masala Flavoured Cashew,Agra,Unknown,Unknown,1,395
+2291059231,DELIVERED,2026-07-03,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2291381119,DELIVERED,2026-07-03,10274050,Real Nut Roasted Masala Flavoured Cashew,Kolkata,Unknown,Unknown,1,395
+2291859055,DELIVERED,2026-07-03,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2292758976,DELIVERED,2026-07-03,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2294717382,DELIVERED,2026-07-03,10274845,Real Nut Premium Cashew,Faridabad,Unknown,Unknown,1,345
+2291524276,DELIVERED,2026-07-03,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2290457864,DELIVERED,2026-07-03,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2291859055,DELIVERED,2026-07-03,10275571,Real Nut California Almonds,Gurgaon,Unknown,Unknown,1,325
+2292732509,DELIVERED,2026-07-03,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2293268707,DELIVERED,2026-07-03,10275571,Real Nut California Almonds,Meerut,Unknown,Unknown,1,325
+2293516854,DELIVERED,2026-07-03,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2292631901,DELIVERED,2026-07-03,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2290761940,DELIVERED,2026-07-03,10275571,Real Nut California Almonds,Faridabad,Unknown,Unknown,1,325
+2292461183,DELIVERED,2026-07-03,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2293411777,DELIVERED,2026-07-03,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2292557414,DELIVERED,2026-07-03,10275571,Real Nut California Almonds,Gurgaon,Unknown,Unknown,1,325
+2291876935,DELIVERED,2026-07-03,10275571,Real Nut California Almonds,Pune,Unknown,Unknown,1,325
+2292585982,DELIVERED,2026-07-03,10274050,Real Nut Roasted Masala Flavoured Cashew,Chennai,Unknown,Unknown,1,395
+2293243680,DELIVERED,2026-07-03,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2291752270,DELIVERED,2026-07-03,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2290871367,DELIVERED,2026-07-03,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2291908027,DELIVERED,2026-07-03,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2294372053,DELIVERED,2026-07-03,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2294417707,DELIVERED,2026-07-03,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2293230507,DELIVERED,2026-07-03,10274050,Real Nut Roasted Masala Flavoured Cashew,Surat,Unknown,Unknown,1,395
+2294722023,DELIVERED,2026-07-03,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2293016745,DELIVERED,2026-07-03,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2293336840,DELIVERED,2026-07-03,10257695,Real Nut Roasted & Salted Flavoured Cashew,Sonipat,Unknown,Unknown,1,395
+2293435388,DELIVERED,2026-07-03,10257695,Real Nut Roasted & Salted Flavoured Cashew,Kolkata,Unknown,Unknown,1,395
+2294011367,DELIVERED,2026-07-03,10257695,Real Nut Roasted & Salted Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2290730492,DELIVERED,2026-07-03,10257695,Real Nut Roasted & Salted Flavoured Cashew,Panipat,Unknown,Unknown,1,395
+2293811532,DELIVERED,2026-07-03,10257695,Real Nut Roasted & Salted Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2292145567,DELIVERED,2026-07-03,10257695,Real Nut Roasted & Salted Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2292268669,DELIVERED,2026-07-03,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2291488454,DELIVERED,2026-07-03,10257695,Real Nut Roasted & Salted Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2294712921,DELIVERED,2026-07-03,10257695,Real Nut Roasted & Salted Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2294123869,DELIVERED,2026-07-03,10257699,Real Nut Roasted & Salted Pistachios,Lucknow,Unknown,Unknown,1,450
+2292131142,DELIVERED,2026-07-03,10257699,Real Nut Roasted & Salted Pistachios,Hyderabad,Unknown,Unknown,1,450
+2293407325,DELIVERED,2026-07-03,10257699,Real Nut Roasted & Salted Pistachios,Kolkata,Unknown,Unknown,1,450
+2292083986,DELIVERED,2026-07-03,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2293266253,DELIVERED,2026-07-03,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Gurgaon,Unknown,Unknown,1,240
+2294208354,DELIVERED,2026-07-03,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2291788114,DELIVERED,2026-07-03,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2293838478,DELIVERED,2026-07-03,10258370,Real Nut Roasted & Salted Flavoured Almonds,Faridabad,Unknown,Unknown,1,355
+2293123827,DELIVERED,2026-07-03,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2291443485,DELIVERED,2026-07-03,10258370,Real Nut Roasted & Salted Flavoured Almonds,Lucknow,Unknown,Unknown,1,355
+2290871366,DELIVERED,2026-07-03,10257699,Real Nut Roasted & Salted Pistachios,Delhi,Unknown,Unknown,1,450
+2291778344,DELIVERED,2026-07-03,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2292179624,DELIVERED,2026-07-03,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2294482215,DELIVERED,2026-07-03,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2291643948,DELIVERED,2026-07-03,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,1,355
+2291306122,DELIVERED,2026-07-03,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2293125445,DELIVERED,2026-07-03,10258370,Real Nut Roasted & Salted Flavoured Almonds,Gurgaon,Unknown,Unknown,1,355
+2292598653,DELIVERED,2026-07-03,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Gurgaon,Unknown,Unknown,1,240
+2293080572,DELIVERED,2026-07-03,10258370,Real Nut Roasted & Salted Flavoured Almonds,Pune,Unknown,Unknown,1,355
+2298489810,DELIVERED,2026-07-04,10274845,Real Nut Premium Cashew,Chennai,Unknown,Unknown,1,345
+2296841921,DELIVERED,2026-07-04,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2296105655,DELIVERED,2026-07-04,10274845,Real Nut Premium Cashew,Hyderabad,Unknown,Unknown,1,345
+2298358903,DELIVERED,2026-07-04,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2296753914,DELIVERED,2026-07-04,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2297686436,DELIVERED,2026-07-04,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2296649008,DELIVERED,2026-07-04,10274845,Real Nut Premium Cashew,Chennai,Unknown,Unknown,1,345
+2299374003,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2297961608,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2298747256,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2295307822,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2298150337,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2297508985,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2298722111,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,2,790
+2297288768,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2296395223,DELIVERED,2026-07-04,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2299358503,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2297812100,DELIVERED,2026-07-04,10274845,Real Nut Premium Cashew,Hyderabad,Unknown,Unknown,1,345
+2299030658,DELIVERED,2026-07-04,10275571,Real Nut California Almonds,Faridabad,Unknown,Unknown,1,325
+2296612185,DELIVERED,2026-07-04,10274845,Real Nut Premium Cashew,Kolkata,Unknown,Unknown,1,345
+2298484562,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Haldwani,Unknown,Unknown,1,395
+2296758396,DELIVERED,2026-07-04,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2297923672,DELIVERED,2026-07-04,10275571,Real Nut California Almonds,Chennai,Unknown,Unknown,1,325
+2296612421,DELIVERED,2026-07-04,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2297056330,DELIVERED,2026-07-04,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2295682373,DELIVERED,2026-07-04,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2296612387,DELIVERED,2026-07-04,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2297968646,DELIVERED,2026-07-04,10274845,Real Nut Premium Cashew,Faridabad,Unknown,Unknown,1,345
+2297475441,DELIVERED,2026-07-04,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2296671896,DELIVERED,2026-07-04,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2296347550,DELIVERED,2026-07-04,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2296335634,DELIVERED,2026-07-04,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2295521603,DELIVERED,2026-07-04,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2295992227,DELIVERED,2026-07-04,10275571,Real Nut California Almonds,Bengaluru,Unknown,Unknown,1,325
+2298040041,DELIVERED,2026-07-04,10275571,Real Nut California Almonds,Gurgaon,Unknown,Unknown,1,325
+2298931319,DELIVERED,2026-07-04,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2295717935,DELIVERED,2026-07-04,10275571,Real Nut California Almonds,Faridabad,Unknown,Unknown,1,325
+2297333015,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2297876589,DELIVERED,2026-07-04,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,1,355
+2299031823,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2297085636,DELIVERED,2026-07-04,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2298736799,DELIVERED,2026-07-04,10258370,Real Nut Roasted & Salted Flavoured Almonds,Pune,Unknown,Unknown,1,355
+2299102394,DELIVERED,2026-07-04,10258370,Real Nut Roasted & Salted Flavoured Almonds,Gurgaon,Unknown,Unknown,1,355
+2298680692,DELIVERED,2026-07-04,10258370,Real Nut Roasted & Salted Flavoured Almonds,Mumbai,Unknown,Unknown,1,355
+2295899183,DELIVERED,2026-07-04,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Ghaziabad,Unknown,Unknown,1,240
+2298868658,DELIVERED,2026-07-04,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Ghaziabad,Unknown,Unknown,1,240
+2298480862,DELIVERED,2026-07-04,10257699,Real Nut Roasted & Salted Pistachios,Kolkata,Unknown,Unknown,1,450
+2298876132,DELIVERED,2026-07-04,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2299220054,DELIVERED,2026-07-04,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2298437154,DELIVERED,2026-07-04,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2294876948,DELIVERED,2026-07-04,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2295018952,DELIVERED,2026-07-04,10257695,Real Nut Roasted & Salted Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2297085636,DELIVERED,2026-07-04,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2298335675,DELIVERED,2026-07-04,10257695,Real Nut Roasted & Salted Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2296515155,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2298464721,DELIVERED,2026-07-04,10258370,Real Nut Roasted & Salted Flavoured Almonds,Goa,Unknown,Unknown,1,355
+2296123988,DELIVERED,2026-07-04,10258370,Real Nut Roasted & Salted Flavoured Almonds,Mumbai,Unknown,Unknown,1,355
+2297023078,DELIVERED,2026-07-04,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2298634947,DELIVERED,2026-07-04,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2296833231,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2299385596,DELIVERED,2026-07-04,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2297157827,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2298578545,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2299349723,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2299281598,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2297840851,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2299102394,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2298743029,DELIVERED,2026-07-04,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2295822376,DELIVERED,2026-07-04,10258370,Real Nut Roasted & Salted Flavoured Almonds,Rajkot,Unknown,Unknown,1,355
+2299030658,DELIVERED,2026-07-04,10258370,Real Nut Roasted & Salted Flavoured Almonds,Faridabad,Unknown,Unknown,1,355
+2297791929,DELIVERED,2026-07-04,10258370,Real Nut Roasted & Salted Flavoured Almonds,Kolkata,Unknown,Unknown,1,355
+2295179608,DELIVERED,2026-07-04,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2298222551,DELIVERED,2026-07-04,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2298121819,DELIVERED,2026-07-04,10258370,Real Nut Roasted & Salted Flavoured Almonds,Panipat,Unknown,Unknown,1,355
+2297731708,DELIVERED,2026-07-04,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2298655780,DELIVERED,2026-07-04,10258370,Real Nut Roasted & Salted Flavoured Almonds,Hyderabad,Unknown,Unknown,1,355
+2303724447,DELIVERED,2026-07-05,10274845,Real Nut Premium Cashew,Bengaluru,Unknown,Unknown,1,345
+2303744128,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Haldwani,Unknown,Unknown,1,395
+2302802256,DELIVERED,2026-07-05,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2302261917,DELIVERED,2026-07-05,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2303396855,DELIVERED,2026-07-05,10274845,Real Nut Premium Cashew,Chandigarh,Unknown,Unknown,1,345
+2302862058,DELIVERED,2026-07-05,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2303413450,DELIVERED,2026-07-05,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2302001550,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2300892884,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2301987650,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Faridabad,Unknown,Unknown,2,790
+2300271626,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2303874629,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2304716568,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2302197094,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2301865404,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2303208753,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2299999080,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2303305738,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2302317128,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2302994242,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2301030846,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2300360859,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2300877332,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Ahmedabad,Unknown,Unknown,1,325
+2299950790,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2300854328,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2303586463,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Bengaluru,Unknown,Unknown,1,325
+2300639553,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2301193432,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2299957321,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Sonipat,Unknown,Unknown,1,325
+2301118436,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2301010319,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2301258647,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Vadodara,Unknown,Unknown,1,325
+2300148420,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2300759717,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Rohtak,Unknown,Unknown,1,325
+2303249127,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2302702825,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2300428720,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Bengaluru,Unknown,Unknown,1,325
+2303324345,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2303111190,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2301738698,DELIVERED,2026-07-05,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2300150556,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2300789034,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2303994951,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2300662623,DELIVERED,2026-07-05,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2300718296,DELIVERED,2026-07-05,10257699,Real Nut Roasted & Salted Pistachios,Ghaziabad,Unknown,Unknown,1,450
+2299823513,DELIVERED,2026-07-05,10257699,Real Nut Roasted & Salted Pistachios,Ahmedabad,Unknown,Unknown,1,450
+2303705624,DELIVERED,2026-07-05,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2299978416,DELIVERED,2026-07-05,10257695,Real Nut Roasted & Salted Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2302118204,DELIVERED,2026-07-05,10257695,Real Nut Roasted & Salted Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2300014032,DELIVERED,2026-07-05,10257695,Real Nut Roasted & Salted Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2301527726,DELIVERED,2026-07-05,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2303216363,DELIVERED,2026-07-05,10257695,Real Nut Roasted & Salted Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2303256548,DELIVERED,2026-07-05,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2302429938,DELIVERED,2026-07-05,10257695,Real Nut Roasted & Salted Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2301093414,DELIVERED,2026-07-05,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2299674760,DELIVERED,2026-07-05,10257695,Real Nut Roasted & Salted Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2303049453,DELIVERED,2026-07-05,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2299980915,DELIVERED,2026-07-05,10257695,Real Nut Roasted & Salted Flavoured Cashew,Kolkata,Unknown,Unknown,1,395
+2304186449,DELIVERED,2026-07-05,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2303149375,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Agra,Unknown,Unknown,1,395
+2302411734,DELIVERED,2026-07-05,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bharuch,Unknown,Unknown,1,355
+2303884399,DELIVERED,2026-07-05,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,1,355
+2303268765,DELIVERED,2026-07-05,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2302985511,DELIVERED,2026-07-05,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2302936140,DELIVERED,2026-07-05,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2304515741,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2304090795,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Meerut,Unknown,Unknown,1,395
+2302985511,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2302429938,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2301983841,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2304171117,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2303678346,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2301025122,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2303161485,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2303862888,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Ahmedabad,Unknown,Unknown,1,395
+2304640189,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2302188145,DELIVERED,2026-07-05,10258370,Real Nut Roasted & Salted Flavoured Almonds,Chennai,Unknown,Unknown,1,355
+2303301842,DELIVERED,2026-07-05,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2304343430,DELIVERED,2026-07-05,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2300155939,DELIVERED,2026-07-05,10258370,Real Nut Roasted & Salted Flavoured Almonds,Kolkata,Unknown,Unknown,1,355
+2303908512,DELIVERED,2026-07-05,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2300613524,DELIVERED,2026-07-05,10258370,Real Nut Roasted & Salted Flavoured Almonds,Mumbai,Unknown,Unknown,1,355
+2306655365,DELIVERED,2026-07-06,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2307946846,DELIVERED,2026-07-06,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2308186882,DELIVERED,2026-07-06,10274845,Real Nut Premium Cashew,Kolkata,Unknown,Unknown,1,345
+2308349797,DELIVERED,2026-07-06,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2308490906,DELIVERED,2026-07-06,10274845,Real Nut Premium Cashew,Mumbai,Unknown,Unknown,1,345
+2306487995,DELIVERED,2026-07-06,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2307383994,DELIVERED,2026-07-06,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2306175193,DELIVERED,2026-07-06,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2308294275,DELIVERED,2026-07-06,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2307017981,DELIVERED,2026-07-06,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2306979592,DELIVERED,2026-07-06,10274845,Real Nut Premium Cashew,Ahmedabad,Unknown,Unknown,1,345
+2305028530,DELIVERED,2026-07-06,10275571,Real Nut California Almonds,Kolkata,Unknown,Unknown,1,325
+2306259303,DELIVERED,2026-07-06,10275571,Real Nut California Almonds,Gurgaon,Unknown,Unknown,1,325
+2308067304,DELIVERED,2026-07-06,10275571,Real Nut California Almonds,Aligarh,Unknown,Unknown,1,325
+2305521374,DELIVERED,2026-07-06,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2306463179,DELIVERED,2026-07-06,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2306119658,DELIVERED,2026-07-06,10275571,Real Nut California Almonds,Agra,Unknown,Unknown,1,325
+2305793277,DELIVERED,2026-07-06,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2305671082,DELIVERED,2026-07-06,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2308031476,DELIVERED,2026-07-06,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2306200846,DELIVERED,2026-07-06,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2305454530,DELIVERED,2026-07-06,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2308660052,DELIVERED,2026-07-06,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2306959134,DELIVERED,2026-07-06,10274050,Real Nut Roasted Masala Flavoured Cashew,Vadodara,Unknown,Unknown,1,395
+2305311391,DELIVERED,2026-07-06,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2307466390,DELIVERED,2026-07-06,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2307681654,DELIVERED,2026-07-06,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2308858644,DELIVERED,2026-07-06,10257695,Real Nut Roasted & Salted Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2305143051,DELIVERED,2026-07-06,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2307138066,DELIVERED,2026-07-06,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2306152955,DELIVERED,2026-07-06,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2306986784,DELIVERED,2026-07-06,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2305968617,DELIVERED,2026-07-06,10257695,Real Nut Roasted & Salted Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2308691812,DELIVERED,2026-07-06,10257699,Real Nut Roasted & Salted Pistachios,Ghaziabad,Unknown,Unknown,1,450
+2308793034,DELIVERED,2026-07-06,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Ghaziabad,Unknown,Unknown,2,480
+2306674727,DELIVERED,2026-07-06,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Ghaziabad,Unknown,Unknown,1,240
+2307912027,DELIVERED,2026-07-06,10258370,Real Nut Roasted & Salted Flavoured Almonds,Lucknow,Unknown,Unknown,2,710
+2307912027,DELIVERED,2026-07-06,10257695,Real Nut Roasted & Salted Flavoured Cashew,Lucknow,Unknown,Unknown,2,790
+2304962495,DELIVERED,2026-07-06,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2307138066,DELIVERED,2026-07-06,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2306023529,DELIVERED,2026-07-06,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2307277883,DELIVERED,2026-07-06,10274050,Real Nut Roasted Masala Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2308050841,DELIVERED,2026-07-06,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2305935469,DELIVERED,2026-07-06,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2305936721,DELIVERED,2026-07-06,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2306295236,DELIVERED,2026-07-06,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2306864590,DELIVERED,2026-07-06,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,2,710
+2305567765,DELIVERED,2026-07-06,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2310508361,DELIVERED,2026-07-07,10274050,Real Nut Roasted Masala Flavoured Cashew,Faridabad,Unknown,Unknown,1,395
+2313030343,DELIVERED,2026-07-07,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2312547292,DELIVERED,2026-07-07,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2309535623,DELIVERED,2026-07-07,10274050,Real Nut Roasted Masala Flavoured Cashew,Chandigarh,Unknown,Unknown,1,395
+2312660751,DELIVERED,2026-07-07,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2312766268,DELIVERED,2026-07-07,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2311480085,DELIVERED,2026-07-07,10274845,Real Nut Premium Cashew,Chennai,Unknown,Unknown,1,345
+2312111129,DELIVERED,2026-07-07,10275571,Real Nut California Almonds,Bengaluru,Unknown,Unknown,1,325
+2312853305,DELIVERED,2026-07-07,10274845,Real Nut Premium Cashew,Hyderabad,Unknown,Unknown,1,345
+2308930425,DELIVERED,2026-07-07,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2311735302,DELIVERED,2026-07-07,10275571,Real Nut California Almonds,Mumbai,Unknown,Unknown,1,325
+2311583651,DELIVERED,2026-07-07,10274845,Real Nut Premium Cashew,Delhi,Unknown,Unknown,1,345
+2311767465,DELIVERED,2026-07-07,10275571,Real Nut California Almonds,Pune,Unknown,Unknown,1,325
+2311802208,DELIVERED,2026-07-07,10275571,Real Nut California Almonds,Meerut,Unknown,Unknown,1,325
+2311933977,DELIVERED,2026-07-07,10275571,Real Nut California Almonds,Gurgaon,Unknown,Unknown,1,325
+2309886590,DELIVERED,2026-07-07,10275571,Real Nut California Almonds,Aligarh,Unknown,Unknown,1,325
+2309178546,DELIVERED,2026-07-07,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2312113729,DELIVERED,2026-07-07,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2309771053,DELIVERED,2026-07-07,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2309948724,DELIVERED,2026-07-07,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2311900979,DELIVERED,2026-07-07,10274050,Real Nut Roasted Masala Flavoured Cashew,Meerut,Unknown,Unknown,1,395
+2312985471,DELIVERED,2026-07-07,10274845,Real Nut Premium Cashew,Chandigarh,Unknown,Unknown,1,345
+2312732267,DELIVERED,2026-07-07,10274050,Real Nut Roasted Masala Flavoured Cashew,Meerut,Unknown,Unknown,1,395
+2311265248,DELIVERED,2026-07-07,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2312510311,DELIVERED,2026-07-07,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2312877708,DELIVERED,2026-07-07,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2309743146,DELIVERED,2026-07-07,10257695,Real Nut Roasted & Salted Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2312031274,DELIVERED,2026-07-07,10257695,Real Nut Roasted & Salted Flavoured Cashew,Anand,Unknown,Unknown,1,395
+2311265248,DELIVERED,2026-07-07,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2312273107,DELIVERED,2026-07-07,10257695,Real Nut Roasted & Salted Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2312170319,DELIVERED,2026-07-07,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2310413864,DELIVERED,2026-07-07,10257699,Real Nut Roasted & Salted Pistachios,Bengaluru,Unknown,Unknown,1,450
+2310059738,DELIVERED,2026-07-07,10257699,Real Nut Roasted & Salted Pistachios,Gurgaon,Unknown,Unknown,1,450
+2312785199,DELIVERED,2026-07-07,10257699,Real Nut Roasted & Salted Pistachios,Delhi,Unknown,Unknown,1,450
+2310874658,DELIVERED,2026-07-07,10257699,Real Nut Roasted & Salted Pistachios,Ahmedabad,Unknown,Unknown,1,450
+2312455861,DELIVERED,2026-07-07,10257695,Real Nut Roasted & Salted Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2310969304,DELIVERED,2026-07-07,10258370,Real Nut Roasted & Salted Flavoured Almonds,Meerut,Unknown,Unknown,1,355
+2309958833,DELIVERED,2026-07-07,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2310582034,DELIVERED,2026-07-07,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2308972220,DELIVERED,2026-07-07,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2309800776,DELIVERED,2026-07-07,10258370,Real Nut Roasted & Salted Flavoured Almonds,Mangalore,Unknown,Unknown,1,355
+2310064494,DELIVERED,2026-07-07,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,1,355
+2310667101,DELIVERED,2026-07-07,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2312737691,DELIVERED,2026-07-07,10258370,Real Nut Roasted & Salted Flavoured Almonds,Lucknow,Unknown,Unknown,1,355
+2311748721,DELIVERED,2026-07-07,10257699,Real Nut Roasted & Salted Pistachios,Chennai,Unknown,Unknown,1,450
+2312901979,DELIVERED,2026-07-07,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2314663909,DELIVERED,2026-07-08,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2314228556,DELIVERED,2026-07-08,10274050,Real Nut Roasted Masala Flavoured Cashew,Vadodara,Unknown,Unknown,1,395
+2316208957,DELIVERED,2026-07-08,10274050,Real Nut Roasted Masala Flavoured Cashew,Chennai,Unknown,Unknown,1,395
+2315418452,DELIVERED,2026-07-08,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,2,790
+2314390094,DELIVERED,2026-07-08,10274050,Real Nut Roasted Masala Flavoured Cashew,Sonipat,Unknown,Unknown,1,395
+2316598990,DELIVERED,2026-07-08,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2314804434,DELIVERED,2026-07-08,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2314377810,DELIVERED,2026-07-08,10274050,Real Nut Roasted Masala Flavoured Cashew,Faridabad,Unknown,Unknown,1,395
+2313967594,DELIVERED,2026-07-08,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2313993205,DELIVERED,2026-07-08,10274050,Real Nut Roasted Masala Flavoured Cashew,Meerut,Unknown,Unknown,1,395
+2316300571,DELIVERED,2026-07-08,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2315699155,DELIVERED,2026-07-08,10274050,Real Nut Roasted Masala Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2313537716,DELIVERED,2026-07-08,10275571,Real Nut California Almonds,Bengaluru,Unknown,Unknown,1,325
+2313116792,DELIVERED,2026-07-08,10274845,Real Nut Premium Cashew,Faridabad,Unknown,Unknown,1,345
+2315675294,DELIVERED,2026-07-08,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2313989515,DELIVERED,2026-07-08,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2314448365,DELIVERED,2026-07-08,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2316628289,DELIVERED,2026-07-08,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2313617137,DELIVERED,2026-07-08,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2315269809,DELIVERED,2026-07-08,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2314421689,DELIVERED,2026-07-08,10275571,Real Nut California Almonds,Gurgaon,Unknown,Unknown,1,325
+2314448361,DELIVERED,2026-07-08,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
+2316529031,DELIVERED,2026-07-08,10275571,Real Nut California Almonds,Bengaluru,Unknown,Unknown,1,325
+2313965632,DELIVERED,2026-07-08,10310116,Real Nut Dried Figs,Gurgaon,Unknown,Unknown,1,380
+2315206348,DELIVERED,2026-07-08,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2316711310,DELIVERED,2026-07-08,10274050,Real Nut Roasted Masala Flavoured Cashew,Meerut,Unknown,Unknown,1,395
+2316977528,DELIVERED,2026-07-08,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2314872289,DELIVERED,2026-07-08,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2315021137,DELIVERED,2026-07-08,10257695,Real Nut Roasted & Salted Flavoured Cashew,Gurgaon,Unknown,Unknown,2,790
+2315799535,DELIVERED,2026-07-08,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2316483761,DELIVERED,2026-07-08,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2314968686,DELIVERED,2026-07-08,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2315563331,DELIVERED,2026-07-08,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2316116107,DELIVERED,2026-07-08,10257695,Real Nut Roasted & Salted Flavoured Cashew,Chennai,Unknown,Unknown,1,395
+2316623946,DELIVERED,2026-07-08,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,1,395
+2313755473,DELIVERED,2026-07-08,10257695,Real Nut Roasted & Salted Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2315156475,DELIVERED,2026-07-08,10257695,Real Nut Roasted & Salted Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2315911798,DELIVERED,2026-07-08,10257695,Real Nut Roasted & Salted Flavoured Cashew,Bhubaneswar,Unknown,Unknown,1,395
+2316307981,DELIVERED,2026-07-08,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2314510362,DELIVERED,2026-07-08,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2314508733,DELIVERED,2026-07-08,10257699,Real Nut Roasted & Salted Pistachios,Lucknow,Unknown,Unknown,1,450
+2316776023,DELIVERED,2026-07-08,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2315349509,DELIVERED,2026-07-08,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,1,355
+2315273047,DELIVERED,2026-07-08,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,2,710
+2313625865,DELIVERED,2026-07-08,10258370,Real Nut Roasted & Salted Flavoured Almonds,Gurgaon,Unknown,Unknown,1,355
+2317095818,DELIVERED,2026-07-08,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2316364126,DELIVERED,2026-07-08,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ahmedabad,Unknown,Unknown,1,355
+2313897452,DELIVERED,2026-07-08,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2316391037,DELIVERED,2026-07-08,10258370,Real Nut Roasted & Salted Flavoured Almonds,Gulbarga,Unknown,Unknown,1,355
+2314003257,DELIVERED,2026-07-08,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2314241252,DELIVERED,2026-07-08,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Ghaziabad,Unknown,Unknown,1,240
+2316130135,DELIVERED,2026-07-08,10258370,Real Nut Roasted & Salted Flavoured Almonds,Delhi,Unknown,Unknown,1,355
+2319585485,DELIVERED,2026-07-09,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2318280512,DELIVERED,2026-07-09,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2320820099,DELIVERED,2026-07-09,10274050,Real Nut Roasted Masala Flavoured Cashew,Lucknow,Unknown,Unknown,1,395
+2320567810,DELIVERED,2026-07-09,10274050,Real Nut Roasted Masala Flavoured Cashew,Haldwani,Unknown,Unknown,1,395
+2319054402,DELIVERED,2026-07-09,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2319123646,DELIVERED,2026-07-09,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2320691899,DELIVERED,2026-07-09,10274845,Real Nut Premium Cashew,Ghaziabad,Unknown,Unknown,1,345
+2321417456,DELIVERED,2026-07-09,10274845,Real Nut Premium Cashew,Hyderabad,Unknown,Unknown,1,345
+2319750164,DELIVERED,2026-07-09,10275571,Real Nut California Almonds,Meerut,Unknown,Unknown,1,325
+2320319938,DELIVERED,2026-07-09,10274845,Real Nut Premium Cashew,Lucknow,Unknown,Unknown,1,345
+2320650293,DELIVERED,2026-07-09,10275571,Real Nut California Almonds,Gurgaon,Unknown,Unknown,1,325
+2318048820,DELIVERED,2026-07-09,10275571,Real Nut California Almonds,Lucknow,Unknown,Unknown,1,325
+2318023717,DELIVERED,2026-07-09,10275571,Real Nut California Almonds,Bengaluru,Unknown,Unknown,1,325
+2317415154,DELIVERED,2026-07-09,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2321304695,DELIVERED,2026-07-09,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2320519769,DELIVERED,2026-07-09,10275571,Real Nut California Almonds,Delhi,Unknown,Unknown,1,325
+2319237057,DELIVERED,2026-07-09,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2321194032,DELIVERED,2026-07-09,10274845,Real Nut Premium Cashew,Gurgaon,Unknown,Unknown,1,345
+2321002628,DELIVERED,2026-07-09,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2321475267,DELIVERED,2026-07-09,10275571,Real Nut California Almonds,Chennai,Unknown,Unknown,1,325
+2320150150,DELIVERED,2026-07-09,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,1,395
+2317851540,DELIVERED,2026-07-09,10257695,Real Nut Roasted & Salted Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2321017838,DELIVERED,2026-07-09,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2318480252,DELIVERED,2026-07-09,10257695,Real Nut Roasted & Salted Flavoured Cashew,Delhi,Unknown,Unknown,2,790
+2319245798,DELIVERED,2026-07-09,10257695,Real Nut Roasted & Salted Flavoured Cashew,Pune,Unknown,Unknown,1,395
+2318157691,DELIVERED,2026-07-09,10257695,Real Nut Roasted & Salted Flavoured Cashew,Mumbai,Unknown,Unknown,1,395
+2318460017,DELIVERED,2026-07-09,10257695,Real Nut Roasted & Salted Flavoured Cashew,Rajkot,Unknown,Unknown,1,395
+2321179429,DELIVERED,2026-07-09,10257699,Real Nut Roasted & Salted Pistachios,Delhi,Unknown,Unknown,1,450
+2320451696,DELIVERED,2026-07-09,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Delhi,Unknown,Unknown,1,240
+2318501618,DELIVERED,2026-07-09,10257837,"Real Nut Dry Fruit, Nuts & Seeds Breakfast Mix",Ghaziabad,Unknown,Unknown,1,240
+2320213137,DELIVERED,2026-07-09,10258370,Real Nut Roasted & Salted Flavoured Almonds,Mumbai,Unknown,Unknown,1,355
+2320105830,DELIVERED,2026-07-09,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,1,355
+2320395638,DELIVERED,2026-07-09,10258370,Real Nut Roasted & Salted Flavoured Almonds,Bengaluru,Unknown,Unknown,1,355
+2319054399,DELIVERED,2026-07-09,10258370,Real Nut Roasted & Salted Flavoured Almonds,Ghaziabad,Unknown,Unknown,1,355
+2319237739,DELIVERED,2026-07-09,10274050,Real Nut Roasted Masala Flavoured Cashew,Meerut,Unknown,Unknown,1,395
+2320154891,DELIVERED,2026-07-09,10274050,Real Nut Roasted Masala Flavoured Cashew,Gurgaon,Unknown,Unknown,1,395
+2318963849,DELIVERED,2026-07-09,10274050,Real Nut Roasted Masala Flavoured Cashew,Bengaluru,Unknown,Unknown,1,395
+2319872937,DELIVERED,2026-07-09,10274050,Real Nut Roasted Masala Flavoured Cashew,Ghaziabad,Unknown,Unknown,2,790
+2320223181,DELIVERED,2026-07-09,10274050,Real Nut Roasted Masala Flavoured Cashew,Hyderabad,Unknown,Unknown,1,395
+2320348101,DELIVERED,2026-07-09,10275571,Real Nut California Almonds,Ghaziabad,Unknown,Unknown,1,325
